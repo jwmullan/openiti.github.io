@@ -1,0 +1,8 @@
+      {% if page.actions %}
+        
+          {% for action in page.actions %}
+            <a href="{{ action.url }}" class="btn">{% if action.icon %}<span class="icon">{% include {{ action.icon | prepend: 'icon-' | append: '.svg' }} %}</span>{% endif %}{{ action.label }}</a>
+          {% endfor %}
+        
+      {% endif %}
+

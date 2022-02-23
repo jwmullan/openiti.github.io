@@ -1,0 +1,14 @@
+{% if site.sidebar_sponsors %}
+<ul class = "contact-list">
+   <hr style="width:13%; float: left">
+   <br>
+     <a>        
+        <span class="label">Our Sponsors:</span>
+      </a>
+   
+   {% for sponsor in site.sponsors %}   
+   <br>
+   <a href = "{{ sponsor[1].link }}"><img src = "{{ sponsor[1].image }}" style = "width: 50%; max-width: 200px"></a>
+   {% endfor %}   
+</ul>
+{% endif %}

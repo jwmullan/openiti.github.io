@@ -1,0 +1,15 @@
+<header class="intro">
+  {% if page.image %}
+    {% assign intro_image = page.image.path | default: page.image | relative_url | escape %}
+    <div class="intro-image" style = "position: relative">
+      <img src="{{ intro_image }}" alt="{{ page.title }}">
+      {% if page.actions %}
+        <ul class="intro-actions" style = "position: absolute; bottom: 10px; left: 50px; padding: 5px">
+          {% for action in page.actions %}
+            <li><a href="{{ action.url }}" class="btn btn--block">{% if action.icon %}<span class="icon">{% include {{ action.icon | prepend: 'icon-' | append: '.svg' }} %}</span>{% endif %}{{ action.label }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+  {% endif %}
+</header>
