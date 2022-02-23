@@ -88,7 +88,7 @@ defaults:
 collections:
    team:
      output: true
-   documentation:
+   docs:
      output: true
    projects:
      output: true
