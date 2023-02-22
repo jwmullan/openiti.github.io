@@ -49,7 +49,7 @@ This course will be of use to any graduate students interested in Arabic-script 
 
 
 
-Please see the course website for more details:
+Please see the [course website](https://sites.google.com/umd.edu/islamicate-digital-manuscripts/digital-islamicate-paleography-and-codicology-summer-school-2-0) for more details:
 
 
 
