@@ -46,20 +46,17 @@ We will reimburse you for travel to and from the airport as well as for any meal
 ## Workshop Participants
 
 **A. Sean Pue**, Associate Professor of Hindi Language & South Asian Literature and Culture, Michigan State University
-
-_Project Affiliation: Jugaad CoLab_
+<br/>_Project Affiliation: Jugaad CoLab_
 
 **Bronson Brown-deVost**, Postdoctoral Fellow, Theologische Fakultät, Georg-August-Universität Göttingen
 
 **Chander Shekhar**, Professor of Persian, University of Delhi
 
 **Daniel Stökl Ben Ezra**, Directeur d'Études, École Pratique des Hautes Études (EPHE), Université Paris Sciences et Lettres; Co-director, eScripta
-
-_Project Affiliation: eScripta_
+<br/>_Project Affiliation: eScripta_
 
 **David Smith**, Associate Professor of Computer Science, Northeastern University
-
-_Project Affiliation: OpenITI_
+<br/>_Project Affiliation: OpenITI_
 
 **David Vishanoff**, Associate Professor of Religious Studies, University of Oklahoma
 
@@ -68,70 +65,59 @@ _Project Affiliation: OpenITI_
 **Farrukh Shahzad**, Chief Librarian, Forman Christian College University
 
 **Gregory Crane**, Professor of Classical Studies & Computer Science, Tufts University; Editor-in-Chief, Perseus Project
-
-_Project Affiliation: Perseus Digital Library_
+<br/>_Project Affiliation: Perseus Digital Library_
 
 **Hugh Cayless**, Senior Digital Humanities Developer, Duke Collaboratory for Classics Computing, Duke University
 
 **Intisar Rabb**, Professor of History & Law, Harvard Law School; Director, Program in Islamic law, Harvard University
-
-_Project Affiliation: SHARIAsource_
+<br/>_Project Affiliation: SHARIAsource_
 
 **Jacob Murel**, Postdoctoral Research Associate, Northeastern University
-
-_Project Affiliation: OpenITI_
+<br/>_Project Affiliation: OpenITI_
 
 **Janelle Jenstad**, Professor of English, University of Victoria; General Editor & Director, The Map of Early Modern London (MoEML)
-
-_Project Affiliation: MoEML_
+<br/>_Project Affiliation: MoEML_
 
 **Jonathan Parkes Allen**, Mellon Humanities Postdoctoral Fellow, Roshan Institute for Persian Studies, University of Maryland, College Park
-
-_Project Affiliation: OpenITI_
+<br/>_Project Affiliation: OpenITI_
 
 **Joseph Hilleary**, Masters Candidate, Tufts University
 
 **Lorenz Nigst**, Research Associate, Corpus Management, KITAB Project, Aga Khan University Institute for the Study of Muslim Civilizations
-
-_Project Affiliation: KITAB; OpenITI_
+<br/>_Project Affiliation: KITAB; OpenITI_
 
 **Mathew Barber**, Post-Doctoral Research Fellow, KITAB Project, Aga Khan University Institute for the Study of Muslim Civilizations
-
-_Project Affiliation: KITAB, OpenITI_
+<br/>_Project Affiliation: KITAB, OpenITI_
 
 **Matthew Thomas Miller**, Assistant Professor of Persian Literature and Digital Humanities, Roshan Institute for Persian Studies, University of Maryland, College Park; Director, Roshan Initiative in Persian Digital Humanities
-
-_Project Affiliation: OpenITI_
+<br/>_Project Affiliation: OpenITI_
 
 **Maxim Romanov**, Junior Research Group Leader, The Evolution of Islamic Societies (c.600-1600 CE): Algorithmic Analysis into Social History, Universität Hamburg
-
-_Project Affiliation: OpenITI_
+<br/>_Project Affiliation: OpenITI_
 
 **Muhammad Taimoor Shahid Khan**, Mellon Humanities Postdoctoral Fellow, Roshan Institute for Persian Studies, University of Maryland, College Park
-
-_Project Affiliation: OpenITI_
+<br/>_Project Affiliation: OpenITI_
 
 **Nick Laiacona**, President, Performant Software Solutions LLC
 
 **Osama Eshera**, Assistant Professor, Roshan Institute for Persian Studies, University of Maryland, College Park; Assistant Director, OpenITI AOCP Phase II
-
-_Project Affiliation: OpenITI_
+<br/>_Project Affiliation: OpenITI_
 
 **Peter Stokes**, Directeur d'Études, École Pratique des Hautes Études (EPHE), Université Paris Sciences et Lettres; Co-rector, eScripta
-
-_Project Affiliation: eScripta_
+<br/>_Project Affiliation: eScripta_
 
 **Peter Verkinderen**, Assistant Professor, Centre for Digital Humanities, Aga Khan University Institute for the Study of Muslim Civilizations; Postdoctoral Research Fellow, KITAB Project
+<br/>_Project Affiliation: KITAB_
 
-_Project Affiliation: KITAB_
+**Raffaele Viglianti**, Senior Research Software Developer, Maryland Institute for Technology in the Humanities, University of Maryland
+<br/>_Project Affiliation: OpenITI_
+
 
 **Sarah Bowen Savant**, Professor of History, Aga Khan University Institute for the Study of Muslim Civilizations; Principal Investigator, KITAB Project
-
-_Project Affiliation: KITAB_
+<br/>_Project Affiliation: KITAB_
 
 **Theodore Beers**, Postdoctoral Research Fellow, Seminar für Semitistik und Arabistik, Freie Universität Berlin
-
-_Project Affiliation: Kalīla and Dimna – AnonymClassic_
+<br/>_Project Affiliation: Kalīla and Dimna – AnonymClassic_
 
 **Till Grallert**, Research Associate, Universitätsbibliothek, Humboldt-Universität zu Berlin; Marie Sklodowska-Curie Postdoctoral Fellow, Universität Hamburg
 
