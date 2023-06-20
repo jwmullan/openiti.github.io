@@ -127,17 +127,40 @@ We will reimburse you for travel to and from the airport as well as for any meal
 
 <h2 id="schedule">Schedule</h2>
 
-### Day 1 - 29 June
+## Pre-workshop Event (Optional)<br/>Wednesday, June 28th, 2023
 
 <table>
   <tr>
-   <td style="width:25%"><strong>9:00 - 9:45 am</strong>
+  <td style="width:25%">7:30 p.m. - 10:00 p.m.</td>
+  <td>Welcome dinner and drinks (<a href="https://thehallcp.com/">The Hall CP</a> located behind The Hotel) for those who arrive early enough (and aren’t too jetlagged to attend)</td>
+  </tr>
+</table>
+
+### Workshop Day #1: Thursday, June 29, 2023
+
+<table>
+<tr>
+   <td style="width:25%"><strong>7:30 a.m. - 8:40 a.m.</strong>
    </td>
-   <td><h4>Opening remarks and workshop overview</h4>
+   <td>Breakfast at <em>Bagels ‘N Grinds</em> located at The Hotel
+   (not a group event—please just grab breakfast at your leisure)
    </td>
   </tr>
   <tr>
-   <td><strong>9:45 - 10:45 am</strong>
+   <td><strong>8:40 a.m. - 9:00 a.m.</strong>
+   </td>
+   <td>Walk with Jonathan Allen to McKeldin library
+   </td>
+  </tr>
+  <tr>
+   <td><strong>9:00 a.m. - 9:45 a.m.</strong>
+   </td>
+   <td><strong>Welcome and introductory remarks</strong><br/>
+   <em>Matthew Miller, Raff Viglianti</em>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>9:45 a.m. - 10:45 a.m.</strong>
    </td>
    <td><h4>Opening talks</h4>
    <strong><a href="#pierazzo">Digital editing as publication, craft, and research</a></strong><br/><em>Elena Pierazzo, University of Tours</em><br/><br/>
@@ -145,13 +168,13 @@ We will reimburse you for travel to and from the airport as well as for any meal
    </td>
   </tr>
   <tr>
-   <td><strong>10:45 - 11:00 am</strong>
+   <td><strong>10:45 a.m. - 11:00 a.m.</strong>
    </td>
    <td><em>Break</em>
    </td>
   </tr>
   <tr>
-   <td><strong>11:00 - 12:30 pm</strong>
+   <td><strong>11:00 a.m. - 12:30 p.m.</strong>
    </td>
    <td><h4>Curation</h4>
    <strong><a href="#grallert">Open Arabic Periodical Editions (OpenArabicPE): a case study in digital editing outside the Global North</a></strong><br/><em>Till Grallert, Freie Universität Berlin</em> (remote)<br/><br/>
@@ -160,13 +183,13 @@ We will reimburse you for travel to and from the airport as well as for any meal
    </td>
   </tr>
   <tr>
-   <td><strong>12:30 - 2:00 pm</strong>
+   <td><strong>12:30 p.m. -  2:00 p.m.</strong>
    </td>
    <td><em>Lunch</em>
    </td>
   </tr>
   <tr>
-   <td><strong>2:00 - 3:30 pm</strong>
+   <td><strong>2:00 p.m. - 3:30 p.m.</strong>
    </td>
    <td><h4>Annotation</h4>
    <strong><a href="#meier">TEI Publisher and right-to-left texts</a></strong><br/><em>Wolfgang Meier and Magdalena Turska, eXist Solutions GmbH</em> (remote)<br/><br/>
@@ -175,13 +198,13 @@ We will reimburse you for travel to and from the airport as well as for any meal
    </td>
   </tr>
   <tr>
-   <td><strong>3:30 - 3:45 pm</strong>
+   <td><strong>3:30 p.m. - 3:45 p.m.</strong>
    </td>
    <td><em>Break</em>
    </td>
   </tr>
   <tr>
-   <td><strong>3:45 - 5:15</strong>
+   <td><strong>3:45 p.m. - 5:15 p.m.</strong>
    </td>
    <td><h4>Dissemination</h4>
    <strong><a href="#verkinderen">KITAB: corpus, text reuse and the multi-text editions future</a></strong><br/><em>Peter Verkinderen, Mathew Barber, Lorenz Nigst, Sarah Savant. Aga Khan University</em> <br/><br/>
@@ -190,65 +213,85 @@ We will reimburse you for travel to and from the airport as well as for any meal
    </td>
   </tr>
   <tr>
-   <td><strong>6:30 pm</strong>
+   <td><strong>5:15 p.m. - 6:30 p.m.</strong>
    </td>
-   <td><em>Dinner</em>
+   <td><em>Break</em>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>6:30 p.m.</strong>
+   </td>
+   <td><em>Dinner (<a href="https://www.pennyroyalstation.com">Pennyroyal Station</a>)</em>
    </td>
   </tr>
 </table>
 
 
-### Day 2 - 30 June
+### Workshop Day #2: Friday, June 30, 2023
 
 On day two, we will have a series of break-out/discussion groups around different topics. Each session will last 90 minutes: 60 min for break-out groups and 30 min for plenary discussion. Each break-out group will focus on a tool or approach and will have an assigned moderator who may showcase certain approaches to facilitate discussion.
 
 <table>
-  <tr>
-   <td style="width:25%"><strong>9:00 - 9:15 am</strong>
+ <tr>
+   <td style="width:25%"><strong>7:30 a.m. - 8:40 a.m.</strong>
    </td>
-   <td><h4>Day overview and planning</h4>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>9:15 - 10:45 am</strong>
-   </td>
-   <td><h4>Session 1: strategies for right-to-left encoding (post OCR)</h4>
+   <td>Breakfast at <em>Bagels ‘N Grinds</em> located at The Hotel
+   (not a group event—please just grab breakfast at your leisure)
    </td>
   </tr>
   <tr>
-   <td><strong>10:45 - 11:00 am</strong>
+   <td><strong>8:40 a.m. - 9:00 a.m.</strong>
+   </td>
+   <td>Walk with Jonathan Allen to McKeldin library
+   </td>
+  </tr>
+  <tr>
+   <td><strong>9:00 a.m. - 9:15 a.m.</strong>
+   </td>
+   <td><strong>Day Overview and Planning</strong><br/>
+   <em>Raff Viglianti, Mathew Barber</em>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>9:15 a.m. - 10:45 a.m.</strong>
+   </td>
+   <td><h4>Session 1: Strategies for Right-to-Left Encoding (Post-OCR)</h4>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>10:45 a.m. - 11:00 a.m.</strong>
    </td>
    <td><em>Break</em>
    </td>
   </tr>
   <tr>
-   <td><strong>11:00 - 12:30 pm</strong>
+   <td><strong>11:00 a.m. - 12:30 p.m.</strong>
    </td>
-   <td><h4>Session 2: enriching editions: collation, additional markup, annotation</h4>
+   <td><h4>Session 2: Enriching Editions: Collation, Additional Markup, Annotation</h4>
    </td>
   </tr>
   <tr>
-   <td><strong>12:30 - 2:00 pm</strong>
+   <td><strong>12:30 p.m. - 2:00 p.m.</strong>
    </td>
    <td><em>Lunch</em>
    </td>
   </tr>
   <tr>
-   <td><strong>2:00 - 3:30 pm</strong>
+   <td><strong>2:00 p.m. - 3:30 p.m.</strong>
    </td>
-   <td><h4>Session 3: publication systems</h4>
+   <td><h4>Session 3: Publication Systems</h4>
    </td>
   </tr>
   <tr>
-   <td><strong>3:30 - 3:45 pm</strong>
+   <td><strong>3:30 p.m. - 3:45 p.m.</strong>
    </td>
    <td><em>Break</em>
    </td>
   </tr>
   <tr>
-   <td><strong>3:45 - 5:15 pm</strong>
+   <td><strong>3:45 p.m. - 5:15 p.m.</strong>
    </td>
-   <td><h4>Session 4: open discussion</h4>
+   <td><h4>Session 4: Open Discussion and Closing Remarks</h4>
    This session will be run “unconference” style: the group will spend 10 min writing down themes (e.g on a whiteboard) and 10 min assigning people to groups. 45 min break-out groups discuss and then return together.<br/>
    Example topics:
 <ul><li>Longevity and infrastructure: how long should editions be expected to exist online? What infrastructure is needed for longevity?</li>
@@ -258,9 +301,15 @@ On day two, we will have a series of break-out/discussion groups around differen
    </td>
   </tr>
   <tr>
-   <td><strong>6:30 pm</strong>
+   <td><strong>5:15 p.m. - 6:30 p.m.</strong>
    </td>
-   <td><em>Dinner</em>
+   <td><em>Break</em>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>6:30 p.m.</strong>
+   </td>
+   <td><em>Dinner (<a href="https://www.gmxumd.com/">GrillmarX College Park</a>)</em>
    </td>
   </tr>
 </table>
