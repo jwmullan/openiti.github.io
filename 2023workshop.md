@@ -86,6 +86,8 @@ We will reimburse you for travel to and from the airport as well as for any meal
 **Lorenz Nigst**, Research Associate, Corpus Management, KITAB Project, Aga Khan University Institute for the Study of Muslim Civilizations
 <br/>_Project Affiliation: KITAB; OpenITI_
 
+**Magdalena Turska**, e-editiones.org
+
 **Mathew Barber**, Post-Doctoral Research Fellow, KITAB Project, Aga Khan University Institute for the Study of Muslim Civilizations
 <br/>_Project Affiliation: KITAB, OpenITI_
 
@@ -112,7 +114,6 @@ We will reimburse you for travel to and from the airport as well as for any meal
 **Raffaele Viglianti**, Senior Research Software Developer, Maryland Institute for Technology in the Humanities, University of Maryland
 <br/>_Project Affiliation: OpenITI_
 
-
 **Sarah Bowen Savant**, Professor of History, Aga Khan University Institute for the Study of Muslim Civilizations; Principal Investigator, KITAB Project
 <br/>_Project Affiliation: KITAB_
 
@@ -123,7 +124,7 @@ We will reimburse you for travel to and from the airport as well as for any meal
 
 **Wayne Graham**, Chief Information Officer & Director of Informatics, Cultural Networks, and Knowledge Systems, Council on Library and Information Resources
 
-**Wolfgang Meier**, Founder, TEI Publisher
+**Wolfgang Meier**, e-editiones.org
 
 <h2 id="schedule">Schedule</h2>
 
@@ -363,7 +364,7 @@ From its inception, OpenITI mARkdown was conceived to offer lightweight machine 
 Digital Cairo is an NEH-funded project aiming to create TEI-encoded versions of Arabic and Ottoman Turkish articles from the Egyptian Affairs newspaper (Al-Waqa'i' al-Misriyya, الوقائع المصريّة) relating to urbanization in 19th century Cairo. It is a sub-project of La fabrique du Caire moderne, an initiative led by Adam Mestyan (Duke University) and Mercedes Volait (CNRS). Mestyan, Volait, and Hugh Cayless (Duke) are co-PIs on the Digital Cairo project. Our process begins with MS Word transcriptions of articles, currently between the years 1828–1884, which are automatically converted to TEI XML, then processed by student assistants who do some structural editing and mark up the names of persons, places, and organizations. Our intention is to link these annotations up to authority lists, which we have begun to develop, and a gazetteer and GIS in the case of the place names. Further editorial checking is carried out by project editors using visualizations of the TEI documents before they are finalized. Work on the texts is done using oXygen in Author Mode, with a custom CSS configuration and a custom project ODD. GitHub Actions automate our workflow processes to facilitate editorial review and final publication. We have found that these tools gave us the freedom we needed to decide how to handle the material without dictating a particular approach, and then allowed us to narrow our focus and create efficient editorial workflows.
 
 <h3 id="meier">TEI Publisher and right-to-left texts</h3>
-<em>Wolfgang Meier and Magdalena Turska, eXist Solutions GmbH</em>
+<em>Wolfgang Meier and Magdalena Turska, e-editiones.org</em>
 
 TEI Publisher is a community effort based on ideas and contributions by TEI enthusiasts all over the world, licensed under the GPLv3. Initially inspired by the vision behind the TEI Processing Model - work of the late Sebastian Rahtz and other members of the TEI Simple project of 2015 - it continues to evolve into what you can see today. This is only possible thanks to contributions of developers, users and institutions having concrete publication projects and willing to employ Open Source first approach so the whole community can reuse and benefit from their work. This presentation will provide an overview of functionalities, including support for RTL scripts and the new TEI Publisher annotation module.
 
