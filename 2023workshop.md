@@ -257,6 +257,13 @@ On day two, we will have a series of break-out/discussion groups around differen
    <td><strong>9:15 a.m. - 10:45 a.m.</strong>
    </td>
    <td><h4>Session 1: Strategies for Right-to-Left Encoding (Post-OCR)</h4>
+   Break-out groups
+   <ul>
+    <li>oXygen XML editor for RTL scripts <em>(lead: Hugh Cayless)</em></li>
+    <li>mARkdown and NotePad++ <em>(lead: Lorenz Nigst and Peter Verkinderen)</em></li>
+    <li>FairCopy <em>(lead: Nick Laiacona)</em></li>
+    <li>Free and Open Source Software for XML <em>(lead: Raff Viglianti)</em></li>
+   </ul>
    </td>
   </tr>
   <tr>
@@ -269,6 +276,14 @@ On day two, we will have a series of break-out/discussion groups around differen
    <td><strong>11:00 a.m. - 12:30 p.m.</strong>
    </td>
    <td><h4>Session 2: Enriching Editions: Collation, Additional Markup, Annotation</h4>
+   Break-out groups
+   <ul>
+    <!-- <li>AnonymClassic approaches to collation <em>(lead: Theo Beers)</em></li> -->
+    <li>mARkdown and NotePad++ <em>(lead: Lorenz Nigst and Peter Verkinderen)</em></li>
+    <li>Performant Software solutions: ArchivEngine and EditionCrafter <em>(lead: Nick Laiacona)</em></li>
+    <li>Collation algorithms: CollateX, Passim <em>(lead: David Smith)</em></li>
+    <li>TEI Publisher annotation module <em>(lead: Magdalena Turska — remote)</em></li>
+   </ul>
    </td>
   </tr>
   <tr>
@@ -281,6 +296,15 @@ On day two, we will have a series of break-out/discussion groups around differen
    <td><strong>2:00 p.m. - 3:30 p.m.</strong>
    </td>
    <td><h4>Session 3: Publication Systems</h4>
+   Break-out groups
+   <ul>
+    <li>Scaife and KITAB’s Digital Arabic Reader <em>(lead: Greg Crane and Mathew Baker )</em></li>
+    <!-- <li>Dabīrān <em>(lead: Osama Eshera and Fateme Savadi)</em></li> -->
+    <!-- <li>Bespoke solutions: OpenArabicPE and KITABLite reader <em>(lead: Till Grallert and Peter Verkinderen)</em></li> -->
+    <li>Making and Knowing Reader <em>(lead: Nick Laiacona)</em></li>
+    <li>TEI Publisher <em>(lead: Daniel Stoekl and Madgalena Turska)</em></li>
+    <li>Static solutions: CETEIcean <em>(lead: Raff Viglianti and Hugh Cayless)</em></li>
+   </ul>
    </td>
   </tr>
   <tr>
