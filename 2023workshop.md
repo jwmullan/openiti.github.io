@@ -278,7 +278,7 @@ On day two, we will have a series of break-out/discussion groups around differen
    <td><h4>Session 2: Enriching Editions: Collation, Additional Markup, Annotation</h4>
    Break-out groups
    <ul>
-    <!-- <li>AnonymClassic approaches to collation <em>(lead: Theo Beers)</em></li> -->
+    <li>AnonymClassic approaches to collation <em>(lead: Theo Beers)</em></li>
     <li>mARkdown and NotePad++ <em>(lead: Lorenz Nigst and Peter Verkinderen)</em></li>
     <li>Performant Software solutions: ArchivEngine and EditionCrafter <em>(lead: Nick Laiacona)</em></li>
     <li>Collation algorithms: CollateX, Passim <em>(lead: David Smith)</em></li>
