@@ -165,7 +165,7 @@ We will reimburse you for travel to and from the airport as well as for any meal
    </td>
    <td><h4>Opening talks</h4>
    <strong><a href="#pierazzo">Digital editing as publication, craft, and research</a></strong><br/><em>Elena Pierazzo, University of Tours</em><br/><br/>
-   <strong><a href="#crane">The Perseus Project</a></strong><br/><em>Gregory Crane and Joseph Hilleary</em><br/><br/>
+   <strong><a href="#crane">Perseus, NLP and Opening up the Human Record</a></strong><br/><em>Gregory Crane and Joseph Hilleary</em><br/><br/>
    </td>
   </tr>
   <tr>
@@ -350,7 +350,7 @@ More than thirty years of digital editing have borne fruit: nowadays we have met
 However, not everybody is interested in doing all this, or has the objective or the skills to do so, and for many researchers the digital is sought mostly for its improved capacity for dissemination. Luckily, creating a digital edition does not need to mean creating a brand-new digital infrastructure anymore: we have tools, and we have infrastructures, even if not as many as we could and should have. In fact, although producing a digital edition from scratch is tempting because it provides us with the facility of adapting it to our specific research needs, showcasing our scholarship as a luxury designer red-carpet outfit, the sustainability and financial costs of such enterprises are often prohibitive for most researchers, except for those with generous research grants. A few years ago, I used the metaphor of haute couture and pret-à-porter editions to demonstrate the need for a two-way discipline, with pre-built tools on the one hand that allow researchers to publish their editions digitally without a massive financial and pedagogical investments, and on the other hand a research space for the exploration of the digital medium and computational potential. This paper will revisit these distinctions with examples, with the aim of better defining the landscape of digital scholarly editing.
 
 
-<h3 id="crane">The Perseus Project</h3>
+<h3 id="crane">Perseus, NLP and Opening up the Human Record</h3>
 <em>Gregory Crane and Joseph Hilleary</em>
 
 Overarching themes of our work:
