@@ -16,7 +16,14 @@ The Open Islamicate Texts Initiative Arabic OCR Catalyst Project (OpenITI AOCP) 
 
 Before we delve into more specifics on the workshop itself, let’s go over the logistical details. 
 
-John Mullan—the incredible digital specialist of OpenITI AOCP—has already sent you your flight and accommodation information in separate emails (**if for some reason you did not receive this email please let us know as soon as possible**). Some of this information is repeated below. But be sure to review everything below in detail because there is additional information provided here that is not included in those emails.
+John Mullan—the incredible digital specialist of OpenITI AOCP—has already sent you your flight and accommodation information in separate emails (**if for some reason you did not receive this email please let us know as soon as possible**). Some of this information is repeated below. Be sure to review everything below in detail because there is additional information provided here that is not included in those emails.
+
+## Workshop Background
+This workshop is a part of the Open Islamicate Texts Initiative Arabic OCR Catalyst Project Phase II (OpenITI AOCP II)—a three-year project generously funded by [The Mellon Foundation](https://mellon.org/).
+
+OpenITI AOCP II is led by [Matthew Thomas Miller](https://sllc.umd.edu/user/mtmiller) (Roshan Institute for Persian Studies, UMD), [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/) (University of California, San Diego), [Sarah Bowen Savant](https://www.aku.edu/ismc/faculty/Pages/profile.aspx?ProfileID=1&Name=Sarah+Bowen+Savant) (Aga Khan University), [David Smith](https://www.khoury.northeastern.edu/people/david-smith/) (Northeastern University), and [Raffaele Viglianti](https://mith.umd.edu/people/person/raffaele-viglianti/) (Maryland Institute for Technology in the Humanities, UMD). 
+
+This workshop will bring together scholars working with digital corpora who are addressing questions including: digital text collation, annotation and encoding, and digital publication of texts. Participants will be invited to share and work collaboratively on approaches and solutions to the digital publication of text corpora in general, but with a focus on challenges pertaining to text in right-to-left scripts. The workshop has two core goals: 1. To discuss the mechanics of encoding texts and the process of creating a digital edition (with a particular focus on multi-text editions). 2. To discuss mechanisms for the dissemination of digitally encoded texts, in ways which will allow other scholars to engage with the complexity of the textual tradition while taking account of long-term sustainability. The workshop as a whole will focus on these issues as they relate to right-to-left scripts and the challenges that these scripts present (especially where many existing solutions and software cater to left-to-right use cases). As part of the workshop, we will examine and (where possible) experiment with existing software solutions and evaluate their potential for our use cases.
 
 ## Transportation
 
@@ -26,13 +33,6 @@ Guests arriving at Ronald Reagan Washington National Airport (DCA) or Washington
 
 ## Accommodations
 You will all be staying at [The Hotel](https://www.thehotelumd.com/) at University of Maryland (UMD). The Hotel is Located across from the university's entrance at 7777 Baltimore Ave, College Park, MD 2074. 
-
-## Workshop Background
-This workshop is a part of the Open Islamicate Texts Initiative Arabic OCR Catalyst Project Phase II (OpenITI AOCP II)—a three-year project generously funded by [The Mellon Foundation](https://mellon.org/).
-
-OpenITI AOCP II is led by [Matthew Thomas Miller](https://sllc.umd.edu/user/mtmiller) (Roshan Institute for Persian Studies, UMD), [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/) (University of California, San Diego), [Sarah Bowen Savant](https://www.aku.edu/ismc/faculty/Pages/profile.aspx?ProfileID=1&Name=Sarah+Bowen+Savant) (Aga Khan University), [David Smith](https://www.khoury.northeastern.edu/people/david-smith/) (Northeastern University), and [Raffaele Viglianti](https://mith.umd.edu/people/person/raffaele-viglianti/) (Maryland Institute for Technology in the Humanities, UMD). 
-
-This workshop will bring together scholars working with digital corpora who are addressing questions including: digital text collation, annotation and encoding, and digital publication of texts. Participants will be invited to share and work collaboratively on approaches and solutions to the digital publication of text corpora in general, but with a focus on challenges pertaining to text in right-to-left scripts. The workshop has two core goals: 1. To discuss the mechanics of encoding texts and the process of creating a digital edition (with a particular focus on multi-text editions). 2. To discuss mechanisms for the dissemination of digitally encoded texts, in ways which will allow other scholars to engage with the complexity of the textual tradition while taking account of long-term sustainability. The workshop as a whole will focus on these issues as they relate to right-to-left scripts and the challenges that these scripts present (especially where many existing solutions and software cater to left-to-right use cases). As part of the workshop, we will examine and (where possible) experiment with existing software solutions and evaluate their potential for our use cases.
 
 ## Workshop Location
 The workshop will take place in the McKeldin Special Events Room (Room #6137 @7649 S Library Ln, College Park, MD 20742). Jonathan Allen or Osama Eshera will meet you in The Hotel lobby each morning at 8:40 to walk with you from The Hotel to the workshop venue, but in case you need to navigate the campus on your own, [here is a link](https://maps.umd.edu/map/) to a campus map. We can also arrange transportation for any participants who would prefer not to walk for any reason.
@@ -102,7 +102,7 @@ We will reimburse you for travel to and from the airport as well as for any meal
 
 **Nick Laiacona**, President, Performant Software Solutions LLC
 
-**Osama Eshera**, Assistant Professor, Roshan Institute for Persian Studies, University of Maryland, College Park; Assistant Director, OpenITI AOCP Phase II
+**Osama Eshera**, Assistant Research Professor, Roshan Institute for Persian Studies, University of Maryland, College Park; Assistant Director, OpenITI AOCP Phase II
 <br/>_Project Affiliation: OpenITI_
 
 **Peter Stokes**, Directeur d'Études, École Pratique des Hautes Études (EPHE), Université Paris Sciences et Lettres; Co-rector, eScripta
