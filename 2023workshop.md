@@ -279,7 +279,6 @@ On day two, we will have a series of break-out/discussion groups around differen
    Break-out groups
    <ul>
     <li>AnonymClassic approaches to collation <em>(lead: Theo Beers)</em></li>
-    <li>mARkdown and NotePad++ <em>(lead: Lorenz Nigst and Peter Verkinderen)</em></li>
     <li>Performant Software solutions: ArchivEngine and EditionCrafter <em>(lead: Nick Laiacona)</em></li>
     <li>Collation algorithms: CollateX, Passim <em>(lead: David Smith)</em></li>
     <li>TEI Publisher annotation module <em>(lead: Magdalena Turska — remote)</em></li>
@@ -299,8 +298,6 @@ On day two, we will have a series of break-out/discussion groups around differen
    Break-out groups
    <ul>
     <li>Scaife and KITAB’s Digital Arabic Reader <em>(lead: Greg Crane and Mathew Baker )</em></li>
-    <!-- <li>Dabīrān <em>(lead: Osama Eshera and Fateme Savadi)</em></li> -->
-    <!-- <li>Bespoke solutions: OpenArabicPE and KITABLite reader <em>(lead: Till Grallert and Peter Verkinderen)</em></li> -->
     <li>Making and Knowing Reader <em>(lead: Nick Laiacona)</em></li>
     <li>TEI Publisher <em>(lead: Daniel Stoekl and Madgalena Turska)</em></li>
     <li>Static solutions: CETEIcean <em>(lead: Raff Viglianti and Hugh Cayless)</em></li>
