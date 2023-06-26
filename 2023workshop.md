@@ -300,7 +300,7 @@ On day two, we will have a series of break-out/discussion groups around differen
     <li>Scaife and KITAB’s Digital Arabic Reader <em>(lead: Greg Crane and Mathew Baker )</em></li>
     <li>Making and Knowing Reader <em>(lead: Nick Laiacona)</em></li>
     <li>TEI Publisher <em>(lead: Daniel Stoekl and Madgalena Turska)</em></li>
-    <li>Static solutions: CETEIcean <em>(lead: Raff Viglianti and Hugh Cayless)</em></li>
+    <li>Static solutions: CETEIcean <em>(lead: Raff Viglianti, Hugh Cayless, Bronson Brown-deVost)</em></li>
    </ul>
    </td>
   </tr>
