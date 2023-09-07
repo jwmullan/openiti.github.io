@@ -2,10 +2,7 @@
 author: Atiyeh Taghiei
 excerpt: "*This week's post comes courtesy of Atiyeh Taghiei, one of our five summer\
   \ course students, and discusses the text and manuscript tradition with which she\
-  \ worked this summer as part of the OpenITI multi-witness manuscript text project.*\n\
-  \n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\\
-  _\\_\\_\\_\\_\\_\\_\\_\n\nThe *Nahj al-bala\u0304gha* (often translated as \"Path\
-  \ or Peak of Eloquence\") is a compilation..."
+  \ worked this summer as part of the OpenITI multi-witness manuscript text project*."
 image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 layout: post
 tags: null
