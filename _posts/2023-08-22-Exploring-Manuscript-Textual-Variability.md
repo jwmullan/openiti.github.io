@@ -17,6 +17,7 @@ As mentioned in last week's post, one of the goals of OpenITI over the coming mo
 [![]({{ "/images/blogs/2023-08-22/Exploring-Manuscript-Textual-VariabilityJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})]({{ "/images/blogs/2023-08-22/Exploring-Manuscript-Textual-VariabilityJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})
 
 A relatively early example of a *Shāhnāmah* manuscript, written in 1341 and dispersed in the twentieth century (Walters W.677)
+{: .figcaption }
 
 The broad contours of the manuscript tradition as expressed in all cultural zones, including but not limited to the Islamicate, and its tendency towards variation and change have of course been recognized for centuries, with entire disciplines emerging to deal with questions of textual genealogy and edition formation. And while there is today greater recognition that when dealing with manuscript traditions a phrase as seemingly simple as "the text" can entail something very complicated indeed, typographic print (and its direct electronic descendants) is not the most appropriate medium for reconstructing the complex textual histories and material substrates of pre-print works; the affordances of the printed page and of the entire assembly of practices and materialities involved with print mean that a text is both fixed and essentially invariably across many, many copies, changes to the text taking place in a generally well regulated and controlled manner which is usually quite easy to trace.
 

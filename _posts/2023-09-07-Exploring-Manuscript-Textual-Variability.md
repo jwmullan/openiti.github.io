@@ -36,6 +36,7 @@ The [Union Catalogue of Manuscripts from the Islamicate World](https://www.fihri
 [![]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image2.png" | absolute_url }})]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image2.png" | absolute_url }})
 
 An undated manuscript of *the Nahj al-balāgha* available through the Princeton University Catalogue (Islamic Manuscripts, Garrett no.432Y)
+{: .figcaption }
 
 Using eScriptorium, I transcribed and examined the first sermon of some digitized manuscripts of the *Nahj al-balāgha* including an excerpt from the *Mukhtār min kalām Amīr al-Muʼminīn* manuscript in the Library of Congress collection. This manuscript (LoC PJ7698.A5 A2 1679) was written in *naskh* script and copied in Rabīʻ al-ākhir 1090 \[May/June 1679\]. The original location of the manuscript is unknown, though the scribe is noted as a certain Ibn Muḥammad Ṣālih Muḥammad Saʻīd Ashraf.
 
@@ -44,10 +45,12 @@ The manuscript contains a number of reader's notes -- involving the addition of
 [![]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image3.png" | absolute_url }})]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image3.png" | absolute_url }})
 
 Manuscript Image 17: A later scribal intervention in red. As Dr. Osama Eshera highlighted, the serif included on the *lām* is not the habit of the original scribe.
+{: .figcaption }
 
 [![]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image4.png" | absolute_url }})]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image4.png" | absolute_url }})
 
 Manuscript Image 14: A selection of the first sermon of *the Nahj al-balāgha* which describes the fashioning of Adam from a mixture of clay, with a marginal note describing that the addition of the *tāʾ marbūṭa* to *ṭin* indicates a special/specific clay.
+{: .figcaption }
 
 Another unique digitized copy of the *Nahj al-balāghah* can be found in a manuscript held by the Imam Zayd ibn Ali Cultural Foundation (ymdi_04_08) that was copied between 1684 and 1685. The Yemeni naskh script of the manuscript is written with very little spacing between lines. The first sermon is contained within only four folios. This edition is unvocalized and instances of the *hamzah* are replaced with the letter *yaa.* [The manuscript](https://catalog.princeton.edu/catalog/9978496303506421#view) is hosted online as part of the [Yemeni Manuscript Digitization Initiative](https://dpul.princeton.edu/islamicmss/feature/yemeni-manuscripts-digitization-initiative).
 
