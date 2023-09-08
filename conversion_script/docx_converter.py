@@ -85,7 +85,7 @@ def update_glossary_dict(gloss_path, new_entries):
       
 def clean_md_update_image_routing(blog_text):
       # Ensure that liquid tags do not have an empty line preceding them
-      blog_text = re.sub(r"[\n\r]+\{:", "{:", blog_text)
+      blog_text = re.sub(r"[\n\r]+\{:", r"\n{:", blog_text)
   
       # Cleaning out uncessary md and tags from the final piece and converting images so they link to gallery view - fix image routine with absolute_url
     
