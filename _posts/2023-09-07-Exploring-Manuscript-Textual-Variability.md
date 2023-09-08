@@ -24,7 +24,8 @@ The *Nahj al-balāgha* has been translated widely and has inspired hundreds of 
 
 [![]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image1.png" | absolute_url }})]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image1.png" | absolute_url }})
 
-Manuscript of the *Nahj al-balāgha* (1079AH/1671 AD) from the National Museum of New Delhi collection, accessed via the museum's partnership with [Google Arts and Cultures. ](https://artsandculture.google.com/asset/LAHVmUH313Fdww?childAssetId=kQER146_uNZFeA&hl=en)
+Manuscript of the *Nahj al-balāgha* (1079AH/1671 AD) from the National Museum of New Delhi collection, accessed via the museum's partnership with [Google Arts and Cultures. ](https://artsandculture.google.com/asset/LAHVmUH313Fdww?childAssetId=kQER146_uNZFeA&hl=en) 
+{: .figcaption }
 
 Owing to its place in Shi'i thought and the status of Imam ʿAlī ibn Abī Ṭālib more broadly, countless manuscripts of the *Nahj al-balāgha* are extant today. Some of the earliest copies hail from the 6th/13th century, and an edition held in the Imam Reza Museum in the collection of manuscripts of the Organization of Libraries, Museums and Astan Quds Razavi Documentation Center is alleged to be the oldest uncovered to date. Given the expanse and range of manuscripts of the *Nahj al-balāgha*, this summer, I sought to compare digitized manuscripts of the text from varying historical contexts. For this work, I focused on the first sermon of the compilation. While many manuscripts of the text are extant, less than a fraction of these have been digitized and/or are available to view and download online. 
 
