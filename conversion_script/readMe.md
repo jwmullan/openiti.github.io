@@ -1,3 +1,17 @@
+# Writing blogs in docx format - specific formatting
+Styling is specified by using specific liquid tags. For these to work properly you will need to follow the syntax exactly. To render a paragraph in a set style, add the tag on a new line in your docx file immediately following the paragraph that you would like to apply the styling to. For the style to work, the tag must appear on a new line, immediately following the paragraph that you would like to apply to styling to.
+
+## Adding captions
+If you would like the website to render a paragraph in the style of an image caption use the following tag on a new line following the paragraph that you would like rendered as a caption:
+```
+{: .figcaption }
+```
+
+In your docx file, the applied tag would look like this:
+![image](https://github.com/mabarber92/openiti.github.io/assets/46000359/fbb42c5e-dde1-4d2f-96d5-ecd80dfff603)
+
+
+
 # Instructions for adding blogs
 
 ## Fork the website repository
