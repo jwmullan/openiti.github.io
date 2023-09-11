@@ -84,6 +84,9 @@ def update_glossary_dict(gloss_path, new_entries):
           f.write(json.dumps(gloss, indent = 1))
       
 def clean_md_update_image_routing(blog_text):
+      # Ensure that liquid tags do not have an empty line preceding them
+      blog_text = re.sub(r"[\n\r]+\{:", r"\n{:", blog_text)
+  
       # Cleaning out uncessary md and tags from the final piece and converting images so they link to gallery view - fix image routine with absolute_url
     
       blog_text = re.sub(r"{width=.*?}", "", blog_text)    
