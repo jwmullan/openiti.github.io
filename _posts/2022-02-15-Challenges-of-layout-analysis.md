@@ -2,8 +2,9 @@
 title: "Challenges of Layout Analysis across Arabic-Script Training Data"
 layout: post
 excerpt: "Layout Analysis is the process of identifying regions (e.g., title, body text, footnotes, etc.) on a page of text before sending it through the OCR engine. Preparing documents to train our OCR models involves several distinct steps, including semantic annotation, fixing segmentation errors, and editing faulty transcriptions. eScriptorium allows users to associate specific labels with regions..."
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 author: "Şaban Ağalar"
+image: /assets/images/posts/Şaban Ağalar (1)/media/image4.png
 ---
 
 Layout Analysis is the process of identifying regions (e.g., title, body text, footnotes, etc.) on a page of text before sending it through the OCR engine. Preparing documents to train our OCR models involves several distinct steps, including semantic annotation, fixing segmentation errors, and editing faulty transcriptions. eScriptorium allows users to associate specific labels with regions which follow [user-defined ontologies](https://lectaurep.hypotheses.org/documentation/escriptorium-tutorial-en). Having regions annotated in a document allows you to select certain region types to export (Figure 1). For example, you may export in a plain text format that has only the body of text, excluding page numbers, footnotes, titles, etc. This is why proper layout analysis is of primary importance for users who want to manipulate their OCR output.

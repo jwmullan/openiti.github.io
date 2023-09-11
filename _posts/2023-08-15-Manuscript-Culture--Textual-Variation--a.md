@@ -4,11 +4,11 @@ excerpt: 'One of the major distinguishing features of the manuscript mode of tex
   production and transmission was the reality of textual variability: this could range
   from minor differences of spelling from one manuscript copy of a text to another,
   or it could entail quite extensive differences within a given textual tradition,...'
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 layout: post
 title: "Manuscript Culture, Textual Variation, and an Ottoman Judge\u2019s Teaching\
   \ Session Gone Wrong"
-
+image: /images/blogs/2023-08-15/Manuscript-Culture--Textual-Variation--aJonathan Parkes Allen/media/image1.jpeg
 ---
 One of the major distinguishing features of the manuscript mode of textual production and transmission was the reality of textual variability: this could range from minor differences of spelling from one manuscript copy of a text to another, or it could entail quite extensive differences within a given textual tradition, with entire sections or components of other works added, or subtracted, from some copies and not others. Authors often continued to revise their own works during their lifetimes, resulting in multiple "authorized" versions of ostensibly the same text circulating even before the physical death of the author. One of the goals of the Open Islamicate Text Initiative's focus on manuscripts is to work towards new ways to explore and make sense of the dynamics of manuscript culture, in particular the evolution of texts as revealed in multiple manuscript witnesses (the lineages of texts as often as not coming to resemble bushes as much as trees!). Over the coming months we will be exploring various dimensions of manuscript culture as it relates to textual variation, how it came about, what it meant for premodern audiences, and how we in the present can best study such variation, whether at the "micro" level using more traditional philological methods and tools, or at a more "macro" level using quantifiable analysis and, in the near future we hope, enhanced handwritten text recognition capabilities.
 

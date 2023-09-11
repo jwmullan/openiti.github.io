@@ -315,7 +315,7 @@ def clean_up_directories(in_dir, archive_dir, template_yaml_path):
   print("Clean-up done!")
    
 
-def main(add_thumb_image = False, add_excerpt=True):
+def main(add_thumb_image = True, add_excerpt=True):
 
   # Check pypandoc install
   check_pypandoc()

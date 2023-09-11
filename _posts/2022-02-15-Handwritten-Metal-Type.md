@@ -2,8 +2,9 @@
 title: "From Handwritten to Metal Type and Back to Handwritten: The Trajectory of Nasta'līq Printing in the 19th Century Islamicate World"
 layout: post
 excerpt: "In the course of our work locating and analyzing typefaces and typeface frequency across the last two centuries of Arabic script mechanical print we made some fascinating historical discoveries, including some striking typefaces whose existence we would not have previously suspected. Among these..."
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 author: "Jonathan Parkes Allen"
+image: /assets/images/posts/Jonathan Parkes Allen/media/image4.png
 ---
 
 In the course of our work locating and analyzing typefaces and typeface frequency across the last two centuries of Arabic script mechanical print we made some fascinating historical discoveries, including some striking typefaces whose existence we would not have previously suspected. Among these were a couple of early *nasta'līq* typefaces used by some of the pioneer presses in the Islamicate world, typefaces whose fortunes reveal a great deal about the dynamics and trajectory of Arabic script print from the dawn of typographic print up to our own age of digitized texts and OCR development. In what follows I will explore some of these dynamics and historical trajectory, focusing primarily on one of the small number of early nasta'līq typefaces, that of the Būlāq Press in Cairo.

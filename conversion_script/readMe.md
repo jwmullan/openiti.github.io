@@ -44,7 +44,7 @@ The yml file looks like this:
 ```
 title: 
 layout: post
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 author: 
 docx: 
 tags:

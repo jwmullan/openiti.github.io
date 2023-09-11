@@ -2,8 +2,9 @@
 title: "The Challenge of an Unknown Typeface"
 layout: post
 excerpt: "When I came to the University of Maryland, I wanted to do a computational literary study of contemporary Persian novels. To do that, I started collecting PDFs of all the Persian novels that I could find, around 600 titles at present. I was particularly interested in finding digital copies of the works of my favorite writer, Houshang..."
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 author: "Mehdy Sedaghat Payam"
+image: /assets/images/posts/Mehdy Sedaghat Payam (1)/media/image2.png
 ---
 
 When I came to the University of Maryland, I wanted to do a computational literary study of contemporary Persian novels. To do that, I started collecting PDFs of all the Persian novels that I could find, around 600 titles at present. I was particularly interested in finding digital copies of the works of my favorite writer, Houshang Golshiri, so I was overjoyed when I found his last novel *The Book of Genies* (1998).
