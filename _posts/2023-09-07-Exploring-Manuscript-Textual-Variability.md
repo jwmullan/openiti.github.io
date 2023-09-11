@@ -3,11 +3,12 @@ author: Atiyeh Taghiei
 excerpt: "*This week's post comes courtesy of Atiyeh Taghiei, one of our five summer\
   \ course students, and discusses the text and manuscript tradition with which she\
   \ worked this summer as part of the OpenITI multi-witness manuscript text project*."
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 layout: post
 tags: null
 title: "Exploring Manuscript Textual Variability With Digital Tools: The Nahj al-Bala\u0304\
   gha of \u02BFAl\u012B ibn Ab\u012B \u1E6C\u0101lib"
+image: /images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image1.png
 
 ---
 *This week's post comes courtesy of Atiyeh Taghiei, one of our five summer course students, and discusses the text and manuscript tradition with which she worked this summer as part of the OpenITI multi-witness manuscript text project.*

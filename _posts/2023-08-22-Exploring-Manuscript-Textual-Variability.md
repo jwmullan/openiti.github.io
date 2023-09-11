@@ -4,13 +4,13 @@ excerpt: As mentioned in last week's post, one of the goals of OpenITI over the 
   months and years is to develop new ways of exploring textual variability in the
   manuscript tradition using the affordances of digital tools and platforms. One of
   the distinguishing features of texts in Islamicate manuscript cultures...
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 layout: post
 tags:
 - text-reuse
 - book-history
 title: 'Exploring Manuscript Textual Variability With Digital Tools: Introduction'
-
+image: /images/blogs/2023-08-22/Exploring-Manuscript-Textual-VariabilityJonathan Parkes Allen/media/image1.jpeg
 ---
 As mentioned in last week's post, one of the goals of OpenITI over the coming months and years is to develop new ways of exploring textual variability in the manuscript tradition using the affordances of digital tools and platforms. One of the distinguishing features of texts in Islamicate manuscript cultures (and in other manuscript cultures, even if the exact dynamics and contours might be somewhat different) is variability of many different kinds, and not just the sorts of essentially accidental errors and modifications that are inherent in the physical act of copying texts by hand. Manuscript transmission often involved *deliberate* interventions on the part of scribes (and of others involved in the process) which changed the nature of the new text compared to that being used for copying, through the excision or addition of words, lemmas, lines, even entire passages or chapters of a discrete work, with some genres of text seeing quite dramatic variability across manuscript exemplars within a given discrete text. For instance, differences between copies of the famous Persian epic the *Shāhnāmah* can vary on the order of *thousands* of lines, with entire sections added or missing from some lines of transmission. For similar genres such variability is not unusual, and in fact should be seen as an integral feature of the tradition, not a bug.
 

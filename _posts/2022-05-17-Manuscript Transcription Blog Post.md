@@ -2,8 +2,9 @@
 title: "Using eScriptorium for Manuscript Transcription"
 layout: post
 excerpt: "There are any number of reasons a researcher might want to transcribe a digitized manuscript, and there are now a number of tools available to help one in doing so. Transcribing Arabic-script manuscripts poses certain challenges right from the get-go, regardless of whether one is operating in a digital environment or not. Deciphering difficult handwriting, reconstructing lacunae caused by loss of material, navigating manuscripts with text running..."
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 author: "Jonathan Parkes Allen"
+image: /assets/images/posts/Manuscript Transcription Blog Post/media/image1.png
 ---
 ![](/assets/images/posts/Manuscript Transcription Blog Post/media/image3.png)
 
