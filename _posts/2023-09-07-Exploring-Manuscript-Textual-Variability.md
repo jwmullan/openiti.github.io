@@ -24,7 +24,6 @@ The *Nahj al-balāgha* has been translated widely and has inspired hundreds of 
 > ("Nahdj al- Balāgha," in: *Encyclopaedia of Islam, Second Edition)*
 
 [![]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image1.png" | absolute_url }})]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image1.png" | absolute_url }})
-
 Manuscript of the *Nahj al-balāgha* (1079AH/1671 AD) from the National Museum of New Delhi collection, accessed via the museum's partnership with [Google Arts and Cultures. ](https://artsandculture.google.com/asset/LAHVmUH313Fdww?childAssetId=kQER146_uNZFeA&hl=en) 
 {: .figcaption }
 
@@ -35,7 +34,6 @@ Given the *Nahj al-balāgha*'s place in the canon, I was especially interested 
 The [Union Catalogue of Manuscripts from the Islamicate World](https://www.fihrist.org.uk/catalog/work_5359) lists six manuscripts of the *Nahj al-balāgha* (including three from India in the 18th and 19th centuries). In addition to these, manuscripts of the *Nahj al-balāgha* can be found in digitized collections such as the Library of Congress and the Princeton University Catalogue.
 
 [![]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image2.png" | absolute_url }})]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image2.png" | absolute_url }})
-
 An undated manuscript of *the Nahj al-balāgha* available through the Princeton University Catalogue (Islamic Manuscripts, Garrett no.432Y)
 {: .figcaption }
 
@@ -44,12 +42,10 @@ Using eScriptorium, I transcribed and examined the first sermon of some digitize
 The manuscript contains a number of reader's notes -- involving the addition of relevant traditions -- as well as interlinear notes. A later hand has also intervened and provided his corrections in red ink as pictured below. 
 
 [![]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image3.png" | absolute_url }})]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image3.png" | absolute_url }})
-
 Manuscript Image 17: A later scribal intervention in red. As Dr. Osama Eshera highlighted, the serif included on the *lām* is not the habit of the original scribe.
 {: .figcaption }
 
 [![]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image4.png" | absolute_url }})]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image4.png" | absolute_url }})
-
 Manuscript Image 14: A selection of the first sermon of *the Nahj al-balāgha* which describes the fashioning of Adam from a mixture of clay, with a marginal note describing that the addition of the *tāʾ marbūṭa* to *ṭin* indicates a special/specific clay.
 {: .figcaption }
 
