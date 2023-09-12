@@ -25,12 +25,7 @@ Since my own research interests lie in modern Persian literature, I also started
 
 ![](/assets/images/posts/Mehdy Sedaghat Payam (1)/media/image2.png)
 
-
-
 ![](/assets/images/posts/Mehdy Sedaghat Payam (1)/media/image5.png)
-
-
-
 *Figure 1. Inaccurate OCR sample from Golshiri's* Book of Genies.
 {: .figcaption }
 
@@ -46,12 +41,7 @@ But unfortunately, it still could not transcribe Golshiri's work well (Figure 2)
 
 ![](/assets/images/posts/Mehdy Sedaghat Payam (1)/media/image1.png)
 
-
-
 ![](/assets/images/posts/Mehdy Sedaghat Payam (1)/media/image3.png)
-
-
-
 *Figure 2. Second attempt on Golshiri's* Book of Genies.
 {: .figcaption }
 
@@ -66,13 +56,7 @@ There was good news, though. All I needed to do was identify the typeface, after
 
 
 ![](/assets/images/posts/Mehdy Sedaghat Payam (1)/media/image6.png)
-
-
-
 ![](/assets/images/posts/Mehdy Sedaghat Payam (1)/media/image4.png)
-
-
-
 *Figure 3. Improved results in eScriptorium.*
 {: .figcaption }
 
