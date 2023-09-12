@@ -139,7 +139,7 @@ Once you have created a yml file for each blog, you need to add the docx and yml
 2. Click 'New Pull Request'
 3. Fill out the Pull Request as follows and click 'Create Pull request':
    ![image](https://github.com/mabarber92/openiti.github.io/assets/46000359/6a955e70-5ea6-4b66-bdae-68982d92de01)
-5. It should say 'Ready to Merge'
+5. It should say 'Merging can be performed automatically'
    ![image](https://github.com/mabarber92/openiti.github.io/assets/46000359/1504fd3f-1033-45ed-8ec8-37035ed9b4ee)
 7. Click 'Merge' to Merge your changes onto the main OpenITI website
 8. Wait a few minutes and check the main OpenITI website to see that your changes have taken effect
