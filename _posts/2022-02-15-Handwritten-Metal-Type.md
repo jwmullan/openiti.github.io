@@ -19,9 +19,6 @@ Well before the 1820 founding of the pioneering Būlāq Press in Muḥammad 'Al�
 
 
 ![](/assets/images/posts/Jonathan Parkes Allen/media/image4.png){: width="200"}{: height="200"}{: .align-center}
-
-
-
 *Figure 1. The opening page with headspiece from the Būlāq Press\' 1844 printing of the Gulistān in their nasta\'līq typeface.*
 {: .figcaption }
 
@@ -33,9 +30,6 @@ Well before the 1820 founding of the pioneering Būlāq Press in Muḥammad 'Al�
 
 
 ![](/assets/images/posts/Jonathan Parkes Allen/media/image3.png)
-
-
-
 *Figure 2. The 1844 printing of Leylâ Hanım\'s Divan by Būlāq.*
 {: .figcaption }
 
@@ -46,9 +40,6 @@ Yet despite the clear level of investment Būlāq (and to a lesser extent a hand
 
 
 ![](/assets/images/posts/Jonathan Parkes Allen/media/image2.png)
-
-
-
 *Figure 3. Ottoman Turkish rendered in nasta\'līq: the divan of a late 18th c. Ottoman poet, printed by Būlāq in 1837. Note the differences in typesetting between this and the slightly later example above.*
 {: .figcaption }
 
@@ -66,9 +57,6 @@ The rise to dominance in quite a few markets of lithography, and the dominance o
 
 
 ![](/assets/images/posts/Jonathan Parkes Allen/media/image1.png)
-
-
-
 *Figure 4. Another early* nasta'līq *typeface, developed in the late 18th century for the Calcuta Chronicle Press, run by Daniel Stuart and Joseph Cooper--note the lack of a firm impression on the two* qāf*s of* ḥaqīqat*.*
 {: .figcaption }
 

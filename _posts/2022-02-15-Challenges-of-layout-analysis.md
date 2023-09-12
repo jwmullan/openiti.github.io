@@ -12,9 +12,6 @@ Layout Analysis is the process of identifying regions (e.g., title, body text, f
 
 
 ![](/assets/images/posts/Şaban Ağalar (1)/media/image4.png)
-
-
-
 *Figure 1. An export pane in eScriptorium*
 {: .figcaption }
 
@@ -25,9 +22,6 @@ The default configuration includes four tags--'commentary,' 'illustration,' 'mai
 
 
 ![](/assets/images/posts/Şaban Ağalar (1)/media/image2.png)
-
-
-
 *Figure 2. A document that is manually annotated. Different colors indicate different semantic regions (Birgivi. 2002. al-Ṭarīqa al-Muḥammadīya, Damascus: Dār al-Qalam)*
 {: .figcaption }
 
@@ -46,9 +40,6 @@ Should *basmalas* located at the beginning of a page be treated as part of the b
 
 
 ![](/assets/images/posts/Şaban Ağalar (1)/media/image3.png)
-
-
-
 *Figure 3: A page that contains titles between text blocks (Saʻdī. 1832. Gulistān, Calcutta)*
 {: .figcaption }
 
@@ -59,9 +50,6 @@ For books printed in Arabic script, the distinction between illustration and tex
 
 
 ![](/assets/images/posts/Şaban Ağalar (1)/media/image6.png)![](/assets/images/posts/Şaban Ağalar (1)/media/image5.png)
-
-
-
 *Figure 4: Stylistic basmalas. (Birgivi. 2002. al-Ṭarīqa al-Muḥammadīya, Damascus: Dār al-Qalam; ʻAsalī, Bassām. 1988. Fann al-ḥarb al-Islāmī, Lubnān: Dār al-Fikr.)*
 {: .figcaption }
 
@@ -72,9 +60,6 @@ Even 'page number,' seemingly the most self-evident category of semantic regions
 
 
 ![](/assets/images/posts/Şaban Ağalar (1)/media/image1.png)
-
-
-
 *Figure 5: Ḥāfiẓ. 1281 \[1864\]. Dīvān. Būlāq*
 {: .figcaption }
 

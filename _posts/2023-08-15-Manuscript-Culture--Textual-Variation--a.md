@@ -19,7 +19,6 @@ This week's installment examines a narrative account of manuscript tradition var
 There are a couple of things that are worth pointing out in terms of our interest in manuscript culture and materiality: one, it is striking that the madrasa teachers brought along their own copies of the text from which the judge Yūsuf was to teach, which suggests that either they had personal copies or at least had ready access to such copies in some sort of library collection, whether of an individual, a mosque, a madrasa, or some other institution. Copies of this particular *ḥashiyya*---that is, a commentary on a commentary of the Qur'ān, here the famed *tafsīr* of Zamakhsharī---are relatively common in modern repositories, though not super-abundant, at least based on catalog records (it is possible that the text is more common than it appears, since it might exist as a literal marginal commentary and hence unrecognized or uncatalogued).
 
 [![]({{ "/images/blogs/2023-08-15/Manuscript-Culture--Textual-Variation--aJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})]({{ "/images/blogs/2023-08-15/Manuscript-Culture--Textual-Variation--aJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})
-
 A likely 17<sup>th</sup> century copy of Jurjānī's *ḥashiyya*; this copy features a high percentage of undotted letter forms, another possible route of textual variability ([Princeton University, Islamic Manuscripts, Garrett no. 646H](https://catalog.princeton.edu/catalog/9963577613506421))
 {: .figcaption }
 

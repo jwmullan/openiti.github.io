@@ -23,9 +23,6 @@ Alright, let's do a quick walk-through of eScriptorium with an eye to manuscript
 
 
 ![](/assets/images/posts/Manuscript Transcription Blog Post/media/image1.png)
-
-
-
 *Fig. 1: A screenshot from eScriptorium showing the 'Images' tab of a document.*
 {: .figcaption }
 
@@ -36,9 +33,6 @@ You can upload PDFs and IIIF manifests by clicking the "Import" button:
 
 
 ![](/assets/images/posts/Manuscript Transcription Blog Post/media/image2.png){: width="25%"}{: .align-center}
-
-
-
 *Fig. 2: A screenshot from eScriptorium showing the 'Import' button, located below the drag and drop box under the 'Images' tab.*
 {: .figcaption }
 
@@ -53,9 +47,6 @@ From here on out, unless you've generated your own models for a specific manuscr
 
 
 ![](/assets/images/posts/Manuscript Transcription Blog Post/media/image6.png)
-
-
-
 *Fig. 3: A screenshot from the transcription editing page on eScriptorium. A green thumbs-up icon is featured left of the top middle portion of the image.*
 {: .figcaption }
 
@@ -65,9 +56,6 @@ After you've drawn your lines, click that green thumbs-up icon on the left, and 
 
 
 ![](/assets/images/posts/Manuscript Transcription Blog Post/media/image4.png)
-
-
-
 *Fig. 4: A screenshot demonstrating a manuscript image with transcription lines and masks over it, as well as a separate image consisting solely of lines and masks with no manuscript referent shown.*
 {: .figcaption }
 
@@ -81,9 +69,6 @@ Once you're happy with the segmentation you can begin transcribing. Simply click
 
 
 ![](/assets/images/posts/Manuscript Transcription Blog Post/media/image5.png)
-
-
-
 *Fig. 5: A screenshot from the manual transcription window of eScriptorium. There is handwritten Arabic text above a blank white rectangle.*
 {: .figcaption }
 
