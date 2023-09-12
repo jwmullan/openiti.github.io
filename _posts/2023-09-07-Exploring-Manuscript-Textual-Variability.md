@@ -24,6 +24,7 @@ The *Nahj al-balāgha* has been translated widely and has inspired hundreds of 
 > ("Nahdj al- Balāgha," in: *Encyclopaedia of Islam, Second Edition)*
 
 [![]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image1.png" | absolute_url }})]({{ "/images/blogs/2023-09-07/Exploring-Manuscript-Textual-VariabilityAtiyeh Taghiei/media/image1.png" | absolute_url }})
+
 Manuscript of the *Nahj al-balāgha* (1079AH/1671 AD) from the National Museum of New Delhi collection, accessed via the museum's partnership with [Google Arts and Cultures. ](https://artsandculture.google.com/asset/LAHVmUH313Fdww?childAssetId=kQER146_uNZFeA&hl=en) 
 {: .figcaption }
 
