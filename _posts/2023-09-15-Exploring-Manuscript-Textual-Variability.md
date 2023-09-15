@@ -26,6 +26,8 @@ Layla, darling, won't you ease my worried mind
 
 "Layla," Derek & The Dominos (1970)
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 i\. Introduction: Niẓāmī Ganjavī's *Laylī-u Majnūn*
 
 Niẓāmī Ganjavī's *Laylī-u Majnūn* is a twelfth century long-form narrative Persian poem, adapted from the seventh century Arabic story "Majnūn-Laylā" or "Qays-Laylā". It is the third of five poems which make up Niẓāmī's *Khamsa* or "Quintet," also known by the title *Panj Ganj*, "The Five Treasures," and it is made up for about 4600 distiches. *Laylī-u Majnūn* is a tragic romance about the doomed love between a couple whose fathers disallow their union. As Majnūn's intense love for Laylī consumes him, he descends into madness and Niẓāmī's poem explores themes of love, longing, and the struggles between personal desires and societal norms. More importantly, *Laylī-u Majnūn* is a layered tale that is also a Sufi allegory, reflecting themes such as the annihilation of the self, the rejection of worldly attachments, longing and separation, and union and ecstasy. If the broad strokes of the sentiments behind *Laylī-u Majnūn* seem familiar, it is no doubt because Niẓāmī's treatment of the tale forms the basis of Eric Clapton's song "Layla"---the iconic riff and Clapton's lyrics a modern-day re-telling of Majnūn's longing for his Laylī.
