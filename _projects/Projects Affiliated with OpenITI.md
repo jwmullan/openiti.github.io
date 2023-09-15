@@ -1,7 +1,7 @@
 ---
 title: "Projects Affiliated with OpenITI"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 excerpt: "Descriptions of many projects that are (or have been) affiliated with OpenITI"
 ---
 

@@ -2,7 +2,7 @@
 title: "OpenITI AOCP presents: Digital Publication of Right-to-Left Script Corpora"
 layout: page
 permalink: /2023workshop/
-image: /assets/images/pages/2023workshop/header.png
+banner: /assets/images/pages/2023workshop/header.png
 ---
 
 **Date**: June 29 - 30, 2023<br/>

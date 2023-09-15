@@ -1,7 +1,7 @@
 ---
 title: "OCR Guidelines"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 ---
 
 The following is intended as a guide for users of the OpenITI eScriptorium. For a thorough overview of the terms governing published OCR content on OpenITI you are encouraged to read the [Terms of Use]({{site.baseurl}}{% link _docs/Terms of Use.md %}) and the [Privacy Policy]({{site.baseurl}}{% link _docs/Privacy Policy.md %}).

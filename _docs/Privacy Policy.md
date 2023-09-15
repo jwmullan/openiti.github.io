@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.pngexcerpt: ""
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.pngexcerpt: ""
 ---
 ## 1. Introduction
 

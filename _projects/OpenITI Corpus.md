@@ -1,8 +1,9 @@
 ---
 title: "OpenITI Corpus"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 excerpt: "The [OpenITI corpus](https://github.com/OpenITI/RELEASE) is a open-access and machine-actionable collection of Persian and Arabic texts."
+image: /assets/images/pages/OpenITI Corpus/media/image1.png
 ---
 
 ![](/assets/images/pages/OpenITI Corpus/media/image1.png){: width="50%"}{: .align-right}
