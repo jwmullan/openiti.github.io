@@ -31,12 +31,11 @@ i\. Introduction: Niẓāmī Ganjavī's *Laylī-u Majnūn*
 Niẓāmī Ganjavī's *Laylī-u Majnūn* is a twelfth century long-form narrative Persian poem, adapted from the seventh century Arabic story "Majnūn-Laylā" or "Qays-Laylā". It is the third of five poems which make up Niẓāmī's *Khamsa* or "Quintet," also known by the title *Panj Ganj*, "The Five Treasures," and it is made up for about 4600 distiches. *Laylī-u Majnūn* is a tragic romance about the doomed love between a couple whose fathers disallow their union. As Majnūn's intense love for Laylī consumes him, he descends into madness and Niẓāmī's poem explores themes of love, longing, and the struggles between personal desires and societal norms. More importantly, *Laylī-u Majnūn* is a layered tale that is also a Sufi allegory, reflecting themes such as the annihilation of the self, the rejection of worldly attachments, longing and separation, and union and ecstasy. If the broad strokes of the sentiments behind *Laylī-u Majnūn* seem familiar, it is no doubt because Niẓāmī's treatment of the tale forms the basis of Eric Clapton's song "Layla"---the iconic riff and Clapton's lyrics a modern-day re-telling of Majnūn's longing for his Laylī.
 
 [![]({{ "/images/blogs/2023-09-15/Exploring-Manuscript-Textual-VariabilityModje Taavon/media/image1.jpeg" | absolute_url }})]({{ "/images/blogs/2023-09-15/Exploring-Manuscript-Textual-VariabilityModje Taavon/media/image1.jpeg" | absolute_url }})
+
 The death of Laylī and Majnūn, Bodleian Library MS. Elliot 192, fol. 150a.
 {: .figcaption }
 
-### The majority of the copies of Niẓāmī's *Laylī-u Majnūn* that I have come across do not exist as stand-alone works---instead, they are contained within the *Khamsa*. Niẓāmī's poem is one of the most commonly copied examples of Classical Persian poetry and the number of extant manuscripts is a testament to this fact. The Union Catalogue of Manuscripts from the Islamicate World alone lists [28 manuscripts](https://www.fihrist.org.uk/catalog/work_20432) from Southwest, Central, and South Asia, ranging from the fifteenth through the eighteenth centuries. The most interesting aspect of a text such as this is that as widespread as it is, there is a great deal of variation. The three witnesses I am employing show a great deal of shifting of sections, inversions of lines, and the like. 
-
-### 
+The majority of the copies of Niẓāmī's *Laylī-u Majnūn* that I have come across do not exist as stand-alone works---instead, they are contained within the *Khamsa*. Niẓāmī's poem is one of the most commonly copied examples of Classical Persian poetry and the number of extant manuscripts is a testament to this fact. The Union Catalogue of Manuscripts from the Islamicate World alone lists [28 manuscripts](https://www.fihrist.org.uk/catalog/work_20432) from Southwest, Central, and South Asia, ranging from the fifteenth through the eighteenth centuries. The most interesting aspect of a text such as this is that as widespread as it is, there is a great deal of variation. The three witnesses I am employing show a great deal of shifting of sections, inversions of lines, and the like.  
 
 ii\. Witnesses of *Laylī-u Majnūn*
 
@@ -50,22 +49,27 @@ Three witnesses are perhaps not enough of a sample size to really answer any of 
 From left: MS. Elliot 192 from the Bodleian Library, SzB Ms. or. fol. 107 from the Staatsbibliothek zu Berlin, and LoC M19 from the Library of Congress.
 {: .figcaption }
 
+
 Two of the three witnesses---MS. Elliot 192 and SzB Ms. or. fol. 107---are written in four columns, a very common layout for Persian poetic works. The third---LoC M19---is in two columns with a third wrapped around the margins. The number of lines per page differs across all three manuscripts, no doubt owing to the different dimensions of each. These conventions of visual grammar of how poetic works are presented seem to me to be a precursor to the stability afforded by print which Dr. Jonathan Parkes Allen discusses [here](https://openiti.org/2023/08/22/Exploring-Manuscript-Textual-Variability.html).
 
 iii\. Transcribing *Laylī-u Majnūn*
 
 [![]({{ "/images/blogs/2023-09-15/Exploring-Manuscript-Textual-VariabilityModje Taavon/media/image3.png" | absolute_url }})]({{ "/images/blogs/2023-09-15/Exploring-Manuscript-Textual-VariabilityModje Taavon/media/image3.png" | absolute_url }})
+
 Our main task this summer was to manually record, as diplomatically as possible, a multi-witness transcription of a particular work. Using eScriptorium, I began to transcribe the first five chapters of *Laylī-u Majnūn* and determined that there are three types of variation observable in at least these witnesses of the work: orthographic variation, variation at the word level, and variation in the presence or absence of several lines, if not entire sections at a time. Orthographic variation is sometimes a matter of the idiosyncrasies of the scribe's hand---different ways of writing the final *ya*, for example, or alternating between different forms of the initial *ha* form in the same manuscript.
 
 [![]({{ "/images/blogs/2023-09-15/Exploring-Manuscript-Textual-VariabilityModje Taavon/media/image4.png" | absolute_url }})]({{ "/images/blogs/2023-09-15/Exploring-Manuscript-Textual-VariabilityModje Taavon/media/image4.png" | absolute_url }})
+
 Transcription, I have come to learn, is more an art than a science---closer to Duane Allman's brilliant translation of Majnūn's yearning onto the slide guitar or Rita Coolidge's piano coda that sounds like what the ecstasy of unity must feel like for Majnūn. The major difficulty I faced was how best to transcribe diplomatically (i.e. to render the paleographic hand into Unicode as closely and precisely as possible). Take, for example, the following screenshot of the word «بیمت» \[*bīmat\]* in MS. Elliot 192. To transcribe this as diplomatically as possible, one would render it as «ٮپمت», even though the consolidation of dots is an aesthetic choice and not an orthographic one. If one were to reverse transcribe the diplomatic transcription, however, it would go from *bīmat* to *?pmat,* losing all semantic meaning. There is a danger of being so diplomatic as to render a transcription utterly useless unless it is to be presented alongside the digitized manuscript. What does diplomacy even mean in such a context? How do we decide the best way to transcribe diplomatically without sacrificing semantic accuracy?
 
 [![]({{ "/images/blogs/2023-09-15/Exploring-Manuscript-Textual-VariabilityModje Taavon/media/image5.png" | absolute_url }})]({{ "/images/blogs/2023-09-15/Exploring-Manuscript-Textual-VariabilityModje Taavon/media/image5.png" | absolute_url }})
+
 Another important area of focus is recording instances of scribal corrections. During the course of our studies, Dr. Osama Eshera taught us to recognize the way scribes often index corrections, like the one seen here from SzB or. fol. 107 on fol. 91v. There are two sets of sigla. The ([^۲]dir="rtl"}) highlighted in red marks a transpositional error: the scribe has written «من بر همه غذاساز کس شوم» but the line should read «من بر همه کس شوم غذاساز». The second set of sigla (marked in blue) seems to be a dotless (خ) which may either indicate a variant reading or another way of noting a transpositional error.
 
 iv\. Collating *Laylī-u Majnūn*
 
 [![]({{ "/images/blogs/2023-09-15/Exploring-Manuscript-Textual-VariabilityModje Taavon/media/image6.gif" | absolute_url }})]({{ "/images/blogs/2023-09-15/Exploring-Manuscript-Textual-VariabilityModje Taavon/media/image6.gif" | absolute_url }})
+
 The initial collation suggests that while there is a great degree of variability between the three witnesses of *Laylī-u Majnūn* employed here, the variability occurs along a similar matrix. By this, I mean that it is often the same sections that shift, the same words that change, and the same orthographic features that index the scribe's idiosyncrasies. Quite surprising to me is that the two witnesses that are the furthest apart chronologically---MS. Elliot 192 and LoC M19---are almost identical. Though there are no definitive indications of where these manuscripts were copied, it seems likely that LoC M19 was copied in India while MS. Elliot 192 and SzB or. fol. 107 are from southwest or central Asia. As I continue my research, I look forward to the possibility of tracing out the genealogy of these manuscripts, working towards a stemmatological analysis of extant witnesses of Niẓāmī's *Laylī-u Majnūn*.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
