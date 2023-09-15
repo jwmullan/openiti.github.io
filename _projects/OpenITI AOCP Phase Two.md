@@ -1,8 +1,9 @@
 ---
 title: "*Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project* (*OpenITI AOCP*) Phase Two"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 excerpt: "OpenITI AOCP Phase II will build on the considerable successes of the Phase I project in piloting corpus production for Persian and Arabic and advancing OCR character accuracy rates (CARs) on the most common typefaces in Persian and Arabic print history"
+image: /assets/images/pages/OpenITI AOCP Phase One/media/image1.png
 ---
 
 ![](/assets/images/pages/OpenITI AOCP Phase One/media/image1.png){: width="50%"}{: .align-right}
