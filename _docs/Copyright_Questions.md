@@ -1,7 +1,7 @@
 ---
 title: "Copyright Questions"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 excerpt: "Answers to your questions about copyright and the OpenITI"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Acknowledgements"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 ---
 
 The Open Islamicate Texts Initiative (OpenITI) has received generous funding from a number of sources which we gratefully acknowledge below.

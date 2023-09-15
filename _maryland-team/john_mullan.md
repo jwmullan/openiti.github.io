@@ -1,7 +1,7 @@
 ---
 title: "John Mullan"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 ---
 
 ![](/assets/images/team/john_headshot.JPG){: width="35%"}{: .align-right} 

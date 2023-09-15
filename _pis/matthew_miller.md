@@ -1,7 +1,7 @@
 ---
 title: "Matthew Thomas Miller"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 ---
 
 ![](/assets/images/team/miller.jpg){: width="20%"}{: .align-right} 

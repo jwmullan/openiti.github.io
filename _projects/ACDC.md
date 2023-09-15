@@ -1,8 +1,9 @@
 ---
 title: "*Automatic Collation for Diversifying Corpora* (*ACDC*)"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 excerpt: "The *Automatic Collation for Diversifying Corpora* (*ACDC*) project, funded by a Level III Digital Humanities Advanced Grant from the National Endowment for the Humanities, aims to significantly improve the accuracy of handwritten text recognition (HTR) for Arabic-script manuscripts. Our team will develop a collation tool to automatically create large amounts of training data from existing digital texts and manuscript images without time-consuming human annotation of individual manuscripts."
+image: /assets/images/pages/ACDC/media/image1.jpg
 ---
 
 ![](/assets/images/pages/ACDC/media/image1.jpg){: width="50%"}{: .align-right}

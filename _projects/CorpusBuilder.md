@@ -1,8 +1,9 @@
 ---
 title: "CorpusBuilder"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 excerpt: "In 2017, OpenITI joined forces with the [SHARIAsource](https://pil.law.harvard.edu/shariasource-portal/) project of the Program in Islamic Law at Harvard Law School to develop a robust and user-friendly OCR pipeline called [CorpusBuilder](https://github.com/berkmancenter/corpusbuilder). This project was funded by the Program in Islamic Law at Harvard Law School."
+image: /assets/images/pages/CorpusBuilder/media/image1.jpg
 ---
 
 ![](/assets/images/pages/CorpusBuilder/media/image1.jpg){: width="50%"}{: .align-right}

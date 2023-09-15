@@ -1,7 +1,8 @@
 ---
 title: "Digital Publications"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+image: /assets/images/pages/Digital Publications/media/image1.png
 ---
 
 

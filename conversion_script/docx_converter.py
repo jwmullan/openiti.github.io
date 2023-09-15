@@ -84,10 +84,13 @@ def update_glossary_dict(gloss_path, new_entries):
           f.write(json.dumps(gloss, indent = 1))
       
 def clean_md_update_image_routing(blog_text):
+      # Ensure that liquid tags do not have an empty line preceding them
+      blog_text = re.sub(r"[\n\r]+\{:", r"\n{:", blog_text)
+  
       # Cleaning out uncessary md and tags from the final piece and converting images so they link to gallery view - fix image routine with absolute_url
     
       blog_text = re.sub(r"{width=.*?}", "", blog_text)    
-      blog_text = re.sub(r"\!\[[^]]*\]\(\.\.(/images/[^\)]*)\)", r'[![]({{ "\1" | absolute_url }})]({{ "\1" | absolute_url }})', blog_text)
+      blog_text = re.sub(r"\!\[[^]]*\]\(\.\.(/images/[^\)]*)\)[\n\r]?", r'[![]({{ "\1" | absolute_url }})]({{ "\1" | absolute_url }})', blog_text)
       
       # Cliean up links in the same way
       blog_text = re.sub(r"(\[[^]]*\]\()([^)|:]*)(\))", r"\1{{ \2 | absolute_url }}\3", blog_text)
@@ -312,7 +315,7 @@ def clean_up_directories(in_dir, archive_dir, template_yaml_path):
   print("Clean-up done!")
    
 
-def main(add_thumb_image = False, add_excerpt=True):
+def main(add_thumb_image = True, add_excerpt=True):
 
   # Check pypandoc install
   check_pypandoc()

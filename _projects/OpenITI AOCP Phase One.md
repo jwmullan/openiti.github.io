@@ -1,8 +1,9 @@
 ---
 title: "*Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project* (*OpenITI AOCP*) Phase One"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 excerpt: "Funded through two grants from [The Andrew W. Mellon Foundation](https://mellon.org/), Phase One of the *Open Islamicate Texts Initiative Arabic-script OCR Catalyst Project* (*OpenITI AOCP*) is the first undertaking of its kind to tackle the technical and organizational barriers that historically have stymied the development of Arabic-script OCR and digital text production for Islamicate Studies."
+image: /assets/images/pages/OpenITI AOCP Phase One/media/image1.png
 ---
 
 ![](/assets/images/pages/OpenITI AOCP Phase One/media/image1.png){: width="50%"}{: .align-right}

@@ -2,7 +2,7 @@
 title: "Digital Islamicate Paleography and Codicology Summer School"
 layout: post
 excerpt: "Roshan Institute for Persian Studies at the University of Maryland, College Park (Roshan Institute-UMD) is offering a free, stipend-supported twelve-week online summer course on digital Islamicate paleography and codicology. This course is part of the “Unsupervised Islamicate Manuscript Transcription via Lacunae Reconstruction” project, funded by a National Science Foundation grant to Roshan-UMD and the University of California, San Diego..."
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 author: "Jonathan Parkes Allen"
 ---
 
