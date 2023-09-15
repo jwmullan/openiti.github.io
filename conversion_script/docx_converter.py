@@ -315,7 +315,7 @@ def clean_up_directories(in_dir, archive_dir, template_yaml_path):
   print("Clean-up done!")
    
 
-def main(add_thumb_image = True, add_excerpt=True):
+def main(add_image = True, add_excerpt=True):
 
   # Check pypandoc install
   check_pypandoc()
@@ -380,7 +380,7 @@ def main(add_thumb_image = True, add_excerpt=True):
             blog_text = clean_md_update_image_routing(blog_text)
 
             # If set, add thumb image to the header
-            if add_thumb_image:
+            if add_image:
               header = add_thumb_image(header, blog_text)
 
             if add_excerpt:
