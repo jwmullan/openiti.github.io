@@ -1,7 +1,8 @@
 ---
 title: "About"
 layout: page
-image: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
+image: /assets/images/main-images/OpenITI_Logo_Project-02-01.png
 ---
 
 ![OpenITI](/assets/images/main-images/OpenITI_Logo_Project-02-01.png){: width="50%"}{: .align-right}
