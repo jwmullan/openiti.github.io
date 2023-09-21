@@ -38,7 +38,7 @@ algolia:
 breadcrumbs: true
 
 # Set site base url to be used in the seo (e.g. the main domain where it will be deployed)
-site-url-seo : 'openiti.org'
+site-url-seo : 'https:\\openiti.org'
 
 # Build settings
 markdown: kramdown
