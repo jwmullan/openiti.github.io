@@ -1,6 +1,6 @@
 <header class="intro">
-  {% if page.image %}
-    {% assign intro_image = page.image.path | default: page.image | relative_url | escape %}
+  {% if page.banner %}
+    {% assign intro_image = page.banner.path | default: page.banner | relative_url | escape %}
     <div class="intro-image" style = "position: relative">
       <img src="{{ intro_image }}" alt="{{ page.title }}">
       {% if page.actions %}
