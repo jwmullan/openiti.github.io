@@ -11,9 +11,9 @@
   <meta name="description" content= "{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
   <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
   <meta property="og:site_name" content="Open Islamicate Texts Initiative" />
-  <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{site.logo | absolute_url}}{% endif %}" />
+  <meta property="og:image" content="{{ site.site-url-seo }}{% if page.image %}{{ page.image }}{% else %}{{site.logo | absolute_url}}{% endif %}" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta property="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{site.logo | absolute_url}}{% endif %}" />
+  <meta property="twitter:image" content="{{ site.site-url-seo }}{% if page.image %}{{ page.image }}{% else %}{{site.logo | absolute_url}}{% endif %}" />
   <meta property="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
 
 
