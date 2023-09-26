@@ -17,6 +17,7 @@ title: 'Shajara-i Turk: A 17th-century Turko-Chinggisid Genealogy from Central A
 
 ___________________________
 
+
 *Shajara-i Turk* stands out among historical chronicles originating in Central Asia for several compelling reasons. Firstly, its author, Abu al-Ghazi (Abulghazi) Bahadur, was a member of the Chingissid dynasty, which had held exclusive rulership rights in the region for centuries. Notably, when composing the chronicle, the chronicler was himself a reigning monarch. Abu al-Ghazi hailed from the Jochid-Shibanid lineage and for two decades (1643-1663) governed the Khanate of Khorezm, also known as the Khivan Khanate in European historical sources, in South-Western Central Asia.
 
 Khorezm, an ancient city, had once served as the seat of the Khwarazmian empire (c.1077-1220s) until it was conquered by Chinggis Khan\'s armies and integrated into the Mongol empire. Following Chinggis Khan\'s death, Khorezm became part of the Jochid Ulus, or Golden Horde. Subsequently, in the wake of Amir Timur\'s (Tamerlane) military campaigns in the 1370-1380s, the city and its surrounding areas became part of the Timurid state, remaining so until the early 1500s when the Jochid-Shibanid dynasty initiated the Chinggisid restoration in Central Asia. *Shajara-i Turk*, authored by a Chinggisid dynast, thus holds a wealth of historically significant details and crucial genealogical information that may not have been readily available from non-Chinggisid authors.
@@ -28,6 +29,7 @@ The second distinguishing quality of the chronicle lies in its language. Against
 Soon after its completion (around 1665), *Shajara-i Turk* spread across not only in Central Asia but also among Turkic-speaking communities in the Volga-Urals and Siberia. Its popularity even extended beyond Muslim readership. Early on, the chronicle was brought to Europe by Swedish prisoners of war, sent to Siberia by the tsarist government. In Europe, Abu al-Ghazi\'s magnum opus was translated into European languages and published in French (1726) and later in German. The French-language publication of *Shajara-i Turk* served as the foundation for subsequent Russian (1770) and English (1780) translations of the chronicle. Supported by tsarist authorities, an Arabic-script Turkî text of *Shajara-i Turk* was published in 1825 in the city of Kazan (Qazan), a significant center for Russian Oriental studies and Muslim publishing.
 
 [![]({{ "/images/blogs/2023-09-26/Shajara-i-Turk--A-17th-century-Turko-ChiNurlan Kabdylkhak/media/image1.png" | absolute_url }})]({{ "/images/blogs/2023-09-26/Shajara-i-Turk--A-17th-century-Turko-ChiNurlan Kabdylkhak/media/image1.png" | absolute_url }})
+
 Frontpage of *Shajara-i Turk* printed in Kazan, Russian empire, in 1825
 {: .figcaption }
 
@@ -37,14 +39,12 @@ The earliest and most noteworthy of these copies is the manuscript preserved in 
 
 [![]({{ "/images/blogs/2023-09-26/Shajara-i-Turk--A-17th-century-Turko-ChiNurlan Kabdylkhak/media/image2.png" | absolute_url }})]({{ "/images/blogs/2023-09-26/Shajara-i-Turk--A-17th-century-Turko-ChiNurlan Kabdylkhak/media/image2.png" | absolute_url }})
 
-
 Peter Schönström's ownership note in MS. Uppsala University Library: O Vet. 60.
 {: .figcaption }
 
 The other two copies of *Shajara-i Turk* are housed in the Berlin State Library (Staatsbibliothek zu Berlin: Diez A quart. 14) and the National Library of France (Supplément turc 141). The Berlin manuscript, completed in 1737 in St. Petersburg, then the capital of the Russian Empire, employs the *naskh* script. This manuscript contains numerous interlinear notes, primarily in Latin script, with occasional Arabic-script additions by previous readers of the book. These notes typically indicate omissions, synonyms, as well as translations of certain terms.
 
 [![]({{ "/images/blogs/2023-09-26/Shajara-i-Turk--A-17th-century-Turko-ChiNurlan Kabdylkhak/media/image3.png" | absolute_url }})]({{ "/images/blogs/2023-09-26/Shajara-i-Turk--A-17th-century-Turko-ChiNurlan Kabdylkhak/media/image3.png" | absolute_url }})
-
 
 Interlinear comments in MS. Staatsbibliothek zu Berlin: Diez A quart. 14, fol.19a.
 {: .figcaption }
@@ -59,7 +59,6 @@ The Uppsala manuscript, the most aesthetically pleasing among the three, appears
 
 [![]({{ "/images/blogs/2023-09-26/Shajara-i-Turk--A-17th-century-Turko-ChiNurlan Kabdylkhak/media/image4.png" | absolute_url }})]({{ "/images/blogs/2023-09-26/Shajara-i-Turk--A-17th-century-Turko-ChiNurlan Kabdylkhak/media/image4.png" | absolute_url }})
 
-
 Abu al-Ghazi gives a summary of all book chapters, MS. Uppsala University Library: O Vet. 60, fol.3b.
 {: .figcaption }
 
@@ -68,7 +67,6 @@ Despite the apparent professionalism of the Uppsala scribe, he frequently makes 
 In contrast to the Uppsala copyist, the Berlin and Paris scribes display less diligence in their handling of Arabic and Persian terms. This suggests that both had less training in these languages than the Uppsala copyist, and neither was a native speaker of Arabic or Persian. Most of their errors stem from confusion regarding the number of dots above or below letters with similar graphemes (compare مناسب in the Uppsala and میتاسب in the Berlin manuscripts or مثنوّیات in the Uppsala and نثوّیات in the Paris copy). However, this oversight is balanced by the competence of the Paris and Berlin scribes in Turkî. This is particularly evident in the Paris text, where the copyist consistently spells Turkî words in the same manner, favoring their less vowelized versions (قلیب instead of قیلیب or پادشاه لق instead of پادشاه لیق). On occasion, he casually reproduces more Turkic-vernacular variations of proper nouns, writing Abulghazi (ابولغاظی) instead of Abu al-Ghazi (ابو الغازی) and Kharazm (خارزم) instead of the historically more correct spelling, Khwarazm (خوارزم).
 
 [![]({{ "/images/blogs/2023-09-26/Shajara-i-Turk--A-17th-century-Turko-ChiNurlan Kabdylkhak/media/image5.png" | absolute_url }})]({{ "/images/blogs/2023-09-26/Shajara-i-Turk--A-17th-century-Turko-ChiNurlan Kabdylkhak/media/image5.png" | absolute_url }})[![]({{ "/images/blogs/2023-09-26/Shajara-i-Turk--A-17th-century-Turko-ChiNurlan Kabdylkhak/media/image6.png" | absolute_url }})]({{ "/images/blogs/2023-09-26/Shajara-i-Turk--A-17th-century-Turko-ChiNurlan Kabdylkhak/media/image6.png" | absolute_url }})
-
 
 MS. Staatsbibliothek zu Berlin: Diez A quart. 14; MS. Supplément turc 141
 {: .figcaption }
