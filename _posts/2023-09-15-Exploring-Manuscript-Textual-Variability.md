@@ -1,12 +1,7 @@
 ---
 author: Modje Taavon
 excerpt: "*Today's guest post introduces the multi-witness manuscript work of another\
-  \ of our summer paleography and codicology course students, Modje Taavon.*\n\n\\\
-  _\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\
-  \nLayla, you've got me on my knees\n\nLayla, I'm begging, darling please\n\nLayla,\
-  \ darling, won't you ease my worried mind\n\n\"Layla,\" Derek & The Dominos (1970)\n\
-  \ni\\. Introduction: Ni\u1E93\u0101m\u012B Ganjav\u012B's *Layl\u012B-u Majn\u016B\
-  n*\n\nNi\u1E93\u0101m\u012B Ganjav\u012B's *Layl\u012B-u Majn\u016Bn*..."
+  \ of our summer paleography and codicology course students, Modje Taavon."
 image: /images/blogs/2023-09-15/Exploring-Manuscript-Textual-VariabilityModje Taavon/media/image1.jpeg
 layout: post
 tags: null
