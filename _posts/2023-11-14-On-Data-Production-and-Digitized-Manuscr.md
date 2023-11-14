@@ -1,11 +1,6 @@
 ---
 author: Jonathan Parkes Allen
-excerpt: "[![]({{ \"/images/blogs/2023-11-14/On-Data-Production-and-Digitized-ManuscrJonathan\
-  \ Parkes Allen/media/image1.jpeg\" | absolute_url }})]({{ \"/images/blogs/2023-11-14/On-Data-Production-and-Digitized-ManuscrJonathan\
-  \ Parkes Allen/media/image1.jpeg\" | absolute_url }})\nA nice example of manuscript\
-  \ complexity and the often emergent nature of the whole, which may or may not be\
-  \ readily expressed in datafied terms: an early 19<sup>th</sup> century (probably)\
-  \ copy of [*T\u0101r\u012Bkh-i il\u0101h\u012B haz\u0324rat Akbar padishah* (Lewis..."
+excerpt: "From such a starting point, we can then ask: how exactly should we think about electronic texts, about bodies of data, derived from digitized manuscripts? What special concerns, limitations, and possibilities might such a corpus hold vis-à-vis other forms of textual corpora? How do the affordances and informational deposits internal to manuscripts *qua* manuscripts translate, or not translate, into 'datafied' electronic formats? How might quantifiable, computational methods work within such a corpus? What is gained in such a scenario, and what is potentially lost? How can gains be amplified, and losses mitigated---or at least registered?"
 image: /images/blogs/2023-11-14/On-Data-Production-and-Digitized-ManuscrJonathan Parkes
   Allen/media/image1.jpeg
 layout: post
@@ -13,9 +8,6 @@ tags: null
 title: 'On Data Production and Digitized Manuscripts: Some Exploratory Thoughts'
 
 ---
-[![]({{ "/images/blogs/2023-11-14/On-Data-Production-and-Digitized-ManuscrJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})]({{ "/images/blogs/2023-11-14/On-Data-Production-and-Digitized-ManuscrJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})
-A nice example of manuscript complexity and the often emergent nature of the whole, which may or may not be readily expressed in datafied terms: an early 19<sup>th</sup> century (probably) copy of [*Tārīkh-i ilāhī haz̤rat Akbar padishah* (Lewis O 45)](https://openn.library.upenn.edu/Data/0023/html/lewis_o_045.html)
-{: .figcaption }
 
 The following is a distillation of remarks I had prepared for a digital humanities roundtable at last week's annual Middle Eat Studies Association meeting in Montreal; due to suddenly getting quite sick at the last minute I was forced to cancel my travel plans and so was unable to participate. In lieu of that participation I've reworked that material into essay form, with the goal of thinking out loud regarding the intersection of manuscript studies, machine learning, 'datafication,' and digital humanities as a field and discipline, among other things.
 
@@ -58,5 +50,9 @@ To be sure as in anything in the sublunary realm things are not universally stab
 Digital textuality is *phylogenetically* at least a descendant of typographic print, and has heightened many of its particularities: while it is not true that code, for instance, obviates human creativity or particularity, it is also the case that one cannot be eccentric or cavalier when working in code; slight errors in the command line can cause big headaches. Regimes of normalization are vital, and output in turn tends towards a visual and semantic sameness, relationships and particularities registered in number, with binary code at the base of everything. While it remains possible to indicate the spatial relationship of one block of text on a page to another block or isolated lines, the indication of such relationships is different from the visual realization conveyed on the original manuscript page. We are talking about a multi-layered shift in the primary phenomenology of reading and otherwise interacting with the text. Yet even if digital texts and data are the evolutionary descendants of print, by a sort of convergent process they have also developed certain characteristics of the manuscript text, or, more appropriately, the culture and norms within which those texts were created and reproduced. The fluidity of textual production and reproduction has been greatly accelerated by the digital; with texts becoming more and more detached from a consistent or coherent human authorial voice, fragments and pieces of texts moving in and out of various modalities of us, from the raw data of LLM to the strange facsimile nature of the memetic copypasta.
 
 The datafication of manuscripts, whether through the production and analysis of metadata or through the registering and extraction of text, runs the danger of neglecting those elements of manuscripts that are either non-semantic or which are not legible to existing machine learning based models and approaches. The spatial arrangement of text on the page, the variation in hands, scripts, and the like, the marks of use and wear and tear---these are all components of a manuscript that potentially convey information and shape our interpretations of the text under consideration. It is conceivable that most or all of these components could be themselves 'datafied' and analyzed at scale, even if at present for our corpora at least we lack such tools and approaches.
+
+[![]({{ "/images/blogs/2023-11-14/On-Data-Production-and-Digitized-ManuscrJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})]({{ "/images/blogs/2023-11-14/On-Data-Production-and-Digitized-ManuscrJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})
+A nice example of manuscript complexity and the often emergent nature of the whole, which may or may not be readily expressed in datafied terms: an early 19<sup>th</sup> century (probably) copy of [*Tārīkh-i ilāhī haz̤rat Akbar padishah* (Lewis O 45)](https://openn.library.upenn.edu/Data/0023/html/lewis_o_045.html)
+{: .figcaption }
 
 What is crucial at this juncture is understanding all of these elements and their particularities, appreciating that as in so much else in our world there is an emergent object resultant from all of these discrete elements that is not reducible just to the raw numerical combination of those elements. All that which is disaggregated for purposes of legibility and analysis must ultimately be brought back together: in other words, even critically and carefully undertaken use of data must always coexist with other forms of interaction and analysis, with no single approach or focus on one particular facet an end-all in itself.
