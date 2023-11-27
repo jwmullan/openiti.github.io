@@ -1,6 +1,6 @@
 ---
 author: Jonathan Parkes Allen
-excerpt: "From such a starting point, we can then ask: how exactly should we think about electronic texts, about bodies of data, derived from digitized manuscripts? What special concerns, limitations, and possibilities might such a corpus hold vis-à-vis other forms of textual corpora? How do the affordances and informational deposits internal to manuscripts *qua* manuscripts translate, or not translate, into 'datafied' electronic formats? How might quantifiable, computational methods work within such a corpus? What is gained in such a scenario, and what is potentially lost? How can gains be amplified, and losses mitigated---or at least registered?"
+excerpt: "From such a starting point, we can then ask: how exactly should we think about electronic texts, about bodies of data, derived from digitized manuscripts? What special concerns, limitations, and possibilities might such a corpus hold vis-à-vis other forms of textual corpora? How do the affordances and informational deposits internal to manuscripts *qua* manuscripts translate, or not translate, into 'datafied' electronic formats? How might quantifiable, computational methods work within such a corpus? What is gained in such a scenario, and what is potentially lost? How can gains be amplified, and losses mitigated, or at least registered?"
 image: /images/blogs/2023-11-14/On-Data-Production-and-Digitized-ManuscrJonathan Parkes
   Allen/media/image1.jpeg
 layout: post
