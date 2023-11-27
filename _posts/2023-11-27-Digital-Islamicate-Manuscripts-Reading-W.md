@@ -25,9 +25,7 @@ If you're interested in joining this reading and working group but did not parti
 
 **January 12**: Introduction to the spring semester's theme and outline, group introductions.
 
-Reading: Jerome McGann and Dino Buzzeti, 'Critical Editing in a Digital
-
-Horizon.'
+Reading: Jerome McGann and Dino Buzzeti, 'Critical Editing in a Digital Horizon.'
 
 Manuscript: Druze Arabic *majmū'a*, SBzB Ms. or. oct. 164
 
@@ -53,17 +51,13 @@ Manuscript: *Qiṣṣat ʽAntar* \[Ottoman Turkish\], SBzB Ms. or. fol. 4079
 
 Reading: *Text as Data*, Part III (selected chapters).
 
-Manuscript: Muʻtamad Khān, *Tārīkh-i ilāhī haz̤rat Akbar pādishāh*
-
-\[Persian\], Free Library of Philadelphia Lewis O 45
+Manuscript: Muʻtamad Khān, *Tārīkh-i ilāhī haz̤rat Akbar pādishāh* \[Persian\], Free Library of Philadelphia Lewis O 45
 
 **Feburary 16**: Issues and approaches in the creation of digital editions, part 1.
 
 Reading: *Digital Scholarly Editing: Theories and Practices*, 1-82.
 
-Manuscript: Muʻtamad Khān, *Tārīkh-i ilāhī haz̤rat Akbar pādishāh*
-
-\[Persian\], Free Library of Philadelphia Lewis O 45
+Manuscript: Muʻtamad Khān, *Tārīkh-i ilāhī haz̤rat Akbar pādishāh* \[Persian\], Free Library of Philadelphia Lewis O 45
 
 **Feburary 23**: Issues and approaches in the creation of digital editions, part 2.
 
