@@ -29,13 +29,13 @@ If you're interested in joining this reading and working group but did not parti
 
 Reading: Jerome McGann and Dino Buzzeti, 'Critical Editing in a Digital Horizon.'
 
-Manuscript: *Safīnat Baḥr al-muḥīt,* SBzB Ms. or. fol. 248
+Manuscript: *Safīnat Baḥr al-muḥīt* \[Persian and Arabic\], SBzB Ms. or. fol. 248
 
 **January 19**: Theory and practice of text as data, part 1.
 
 Reading: *Text as Data*, Part I.
 
-Manuscript: *Safīnat Baḥr al-muḥīt,* SBzB Ms. or. fol. 248
+Manuscript: *Safīnat Baḥr al-muḥīt* \[Persian and Arabic\], SBzB Ms. or. fol. 248
 
 **January 26**: Theory and practice of text as data, part 2.
 
