@@ -11,7 +11,9 @@ tags: null
 title: 'Digital Islamicate Manuscripts Reading/Working Group 2.0: Spring 2024'
 
 ---
-After a fall semester of readings and often lively discussion of recent literature in the history of Arabic-script manuscripts, ranging from the life-histories of Qur'anic codices to the transition from manuscript to print, for the upcoming spring semester we're going to take a somewhat different tack, leaning much more heavily into the 'digital humanities' side of things. After some reflection and discussion with group members, I've decided on the following: our weekly sessions will be two-part each week, with the first hour of our meeting devoted to discussing a relevant reading in the theory and application of digital humanities. We're going to start out by working through [*Text as Data: A New Framework for Machine Learning and the Social Sciences*,](https://press.princeton.edu/books/paperback/9780691207551/text-as-data) a book written primarily for social scientists but I think adaptable to our concerns in Islamicate digital humanities. After completing that volume, we'll turn to *[Digital Scholarly Editing: Theories and Practices](https://www.openbookpublishers.com/books/10.11647/obp.0095),* then in the remaining weeks do a mix of relevant articles and book chapters, interspersed with practical tools learning and use; I hope to have some scholars working in the field come and talk with us and demonstrate applications within Islamicate humanities of the concepts and methods we'll be exploring. We'll be tackling two big issues at the heart of Islamicate (and other forms of) digital humanities: the nature of data and the transformation and use of text-into-data; the question of digital editing and digital editions, in particular those incorporating manuscripts.
+After a fall semester of readings and often lively discussion of recent literature in the history of Arabic-script manuscripts, ranging from the life-histories of Qur'anic codices to the transition from manuscript to print, for the upcoming spring semester we're going to take a somewhat different tack, leaning much more heavily into the 'digital humanities' side of things. After some reflection and discussion with group members, I've decided on the following: our weekly sessions will be two-part each week, with the first hour of our meeting devoted to discussing a relevant reading in the theory and application of digital humanities. We're going to start out by working through [*Text as Data: A New Framework for Machine Learning and the Social Sciences*,](https://press.princeton.edu/books/paperback/9780691207551/text-as-data) a book written primarily for social scientists but I think adaptable to our concerns in Islamicate digital humanities. 
+
+After completing that volume, we'll turn to *[Digital Scholarly Editing: Theories and Practices](https://www.openbookpublishers.com/books/10.11647/obp.0095),* then in the remaining weeks do a mix of relevant articles and book chapters, interspersed with practical tools learning and use; I hope to have some scholars working in the field come and talk with us and demonstrate applications within Islamicate humanities of the concepts and methods we'll be exploring. We'll be tackling two big issues at the heart of Islamicate (and other forms of) digital humanities: the nature of data and the transformation and use of text-into-data; the question of digital editing and digital editions, in particular those incorporating manuscripts.
 
 [![]({{ "/images/blogs/2023-11-27/Digital-Islamicate-Manuscripts-Reading-WJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})]({{ "/images/blogs/2023-11-27/Digital-Islamicate-Manuscripts-Reading-WJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})
 One of the manuscripts we'll be examining: a c. 1700 copy of the popular epic *Qiṣṣat ʽAntar* (SBzB Ms. or. fol. 4079)
@@ -27,13 +29,13 @@ If you're interested in joining this reading and working group but did not parti
 
 Reading: Jerome McGann and Dino Buzzeti, 'Critical Editing in a Digital Horizon.'
 
-Manuscript: Druze Arabic *majmū'a*, SBzB Ms. or. oct. 164
+Manuscript: *Safīnat Baḥr al-muḥīt,* SBzB Ms. or. fol. 248
 
 **January 19**: Theory and practice of text as data, part 1.
 
 Reading: *Text as Data*, Part I.
 
-Manuscript: Druze Arabic *majmū'a*, SBzB Ms. or. oct. 164
+Manuscript: *Safīnat Baḥr al-muḥīt,* SBzB Ms. or. fol. 248
 
 **January 26**: Theory and practice of text as data, part 2.
 
