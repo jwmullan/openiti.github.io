@@ -17,7 +17,7 @@ One of OpenITI's major deliverables in our most recent round of work is the [Aut
 
 Our team member David Smith (Northeastern University), the main driver behind the ACDC project, has just released a video introduction and tutorial to the project and the ensuing tool, wherein he explains the logic of the project and gives a detailed walk-through of use: [Automatic Collation for Diversify Corpora (ACDC) Tutorial](https://www.youtube.com/watch?v=kNx4GyH5HSo). 
 
-[![]({{ "/images/blogs/2024-01-04/Introducing-the-ACDC-Project--Part-I--TrJonathan Parkes Allen/media/image4.jpeg" | absolute_url }})]({{ "/images/blogs/2024-01-04/Introducing-the-ACDC-Project--Part-I--TrJonathan Parkes Allen/media/iiif-service_amed_plmp_m200_0015-full-pct_100-0-default.jpg" | absolute_url }})
+[![]({{ "/images/blogs/2024-01-04/Introducing-the-ACDC-Project--Part-I--TrJonathan Parkes Allen/media/image4.jpeg" | absolute_url }})]({{ "/images/blogs/2024-01-04/Introducing-the-ACDC-Project--Part-I--TrJonathan Parkes Allen/media/iiif-service_amed_plmp_m200_0015-full-pct_25-0-default.jpg" | absolute_url }})
 
 Gūlistan, Library of Congress PK6450 .G2 1593
 {: .figcaption }
