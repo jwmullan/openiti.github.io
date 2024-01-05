@@ -6,7 +6,7 @@ excerpt: 'One of OpenITI''s major deliverables in our most recent round of work 
   and experimentation: the relevant [code and instructions for installation and use
   are available on Github](https://github.com/OpenITI/acdc_train/), and additional...'
 image: /images/blogs/2024-01-04/Introducing-the-ACDC-Project--Part-I--TrJonathan Parkes
-  Allen/media/image1.png
+  Allen/media/iiif-service_amed_plmp_m200_0015-full-pct_25-0-default.jpg
 layout: post
 tags: null
 title: 'Introducing the ACDC Project, Part I: Training Data Production and the Diversity
