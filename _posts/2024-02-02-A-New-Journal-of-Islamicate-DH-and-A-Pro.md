@@ -1,0 +1,22 @@
+---
+author: Jonathan Parkes Allen
+excerpt: My OpenITI colleague Taimoor Shahid and I were recently able to---virtually---sit
+  down and have a productive conversation with Eid Ahmed Mohamed and Mai Zaki, the
+  editors of the quite newly launched (first issue comes out in a couple of months)
+  *Journal of Digital Islamicate Research*, discussing their vision for the...
+image: /images/blogs/2024-02-02/A-New-Journal-of-Islamicate-DH-and-A-ProJonathan Parkes
+  Allen/media/image1.jpeg
+layout: post
+tags: null
+title: A New Journal of Islamicate DH and A Proposal for an Article Workshopping Group
+
+---
+My OpenITI colleague Taimoor Shahid and I were recently able to---virtually---sit down and have a productive conversation with Eid Ahmed Mohamed and Mai Zaki, the editors of the quite newly launched (first issue comes out in a couple of months) *Journal of Digital Islamicate Research*, discussing their vision for the journal and exploring ways that we at OpenITI might be able to help bring diverse scholarly voices into wider conversation via publication in this imprint. Based on our conversation with Mai and Eid this journal really has the potential to be an important platform for not only aggregating the work of scholars working in Islamicate DH (very broadly understood) but also as a way of making that work more widely visible to other fields and disciplines. We'd like to put in a plug for the journal and encourage anyone, but in particular people working on topics in Persian, Ottoman Turkish, Urdu, and other vernacular languages to reach out to the editors if you have material that might fit with the goals of the journal.
+
+[![]({{ "/images/blogs/2024-02-02/A-New-Journal-of-Islamicate-DH-and-A-ProJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})]({{ "/images/blogs/2024-02-02/A-New-Journal-of-Islamicate-DH-and-A-ProJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})
+An Ottoman discussion circle c. 1600, the ancestor more or less of our virtually hosted reading and workshopping groups! Metropolitan Museum of Art, 25.83.9
+{: .figcaption }
+
+As part of our goal of building long-term sustainable communities of users and practitioners of digital Islamicate humanities, we at OpenITI want to see more scholars from more fields and from more regions of the world able to articulate and present their work in academic forums. Journals like the *Journal of Digital Islamicate Research* are obviously a key part of realizing such a vision, but there are many other things that we and others can be doing. Towards that larger goal, one of the things we'd like to do in the coming months is to begin **a monthly or even bi-monthly workshopping group for scholars** at all levels---graduate, post-grad, junior and senior faculty---working on articles for publication or on other forms of public presentation of their work (which could range from dissertation chapters to conference presentations to online essays). The workshopping group would be held virtually, ensuring that scholars from around the world could participate, and would incorporate work at various stages of competition (or lack thereof!). It would be especially helpful to have individuals with prior experience publishing in DH venues or on related topics to participate. We would also be able to help with issues of framing, structure, and provide some editorial-style guidance and interventions, particularly for writers looking to publish for the first time in an English-language venue.
+
+If you have an Islamicate DH project in which you've participated, a topic of research that is in some way DH related, or really have anything that is broadly congruent with the work and goals of OpenITI about which you're interested in writing a journal article (whether for the *Journal of Digital Islamicate Research* or for various other outlets) or something similar and would like feedback and guidance during the process, **we encourage you to reach out to us**. You can email me directly at <jallen22@umd.edu>, or message me on Twitter (via my personal account is best, \@mar_musa); even if you're just thinking about writing an article or are in the very preliminary stages this group would still work for you, and I would like to go ahead and gauge likely interest before deciding on dates, times, and precise format. We'll make a further announcement in this space and on Twitter once we've finalized the details, so stay tuned!
