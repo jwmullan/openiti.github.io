@@ -22,12 +22,12 @@ These sorts of characters come in seemingly all shapes and sizes, usually withou
 [![]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image2.png" | absolute_url }})]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image2.png" | absolute_url }})
 
 Also frequently encountered across the tradition are marks---to use the most neutral term for what can be quite polyvalent characters---used to indicate things like punctuation, section divisions, and so on (and sometimes, as in the following instances, the exact purpose or purposes are not super clear):
-
-[![]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image3.png" | absolute_url }})]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image3.png" | absolute_url }}) 
+<p style="text-align: center;"> [![]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image3.png" | absolute_url }})]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image3.png" | absolute_url }}) 
 
 [![]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image4.png" | absolute_url }})]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image4.png" | absolute_url }}) 
 
 [![]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image5.png" | absolute_url }})]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image5.png" | absolute_url }})
+</p>
 
 Other things to be on the lookout for: non-standard uses of dots, particularly the various combinations of stacking for adjacent dots, as here:
 
