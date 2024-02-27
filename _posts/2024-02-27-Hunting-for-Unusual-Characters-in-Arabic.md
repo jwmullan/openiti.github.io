@@ -17,17 +17,18 @@ So, in order to better get a handle on just what we're up against as it were and
 To give you an idea of what we're talking about and what we're looking for, here are a few examples that I plucked from a folder of manuscript sample images---not precisely a random selection but pretty close to it. First, one of the more common and intractable sorts of characters that populate many an Islamicate manuscript (and beyond the confines of the tradition---these characters have a very long genealogy that pre-dates Islam and Arabic script both and would develop globally, well into the present) are the letters of "occult" or "magical" alphabets, such as in the following early modern Ottoman example:
 
 [![]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image1.png" | absolute_url }})]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image1.png" | absolute_url }})
+
 These sorts of characters come in seemingly all shapes and sizes, usually without the clarifying interlinear:
 
 [![]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image2.png" | absolute_url }})]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image2.png" | absolute_url }})
 
 Also frequently encountered across the tradition are marks---to use the most neutral term for what can be quite polyvalent characters---used to indicate things like punctuation, section divisions, and so on (and sometimes, as in the following instances, the exact purpose or purposes are not super clear):
-<p style="text-align: center;"> [![]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image3.png" | absolute_url }})]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image3.png" | absolute_url }}) 
+
+[![]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image3.png" | absolute_url }})]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image3.png" | absolute_url }}) 
 
 [![]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image4.png" | absolute_url }})]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image4.png" | absolute_url }}) 
 
 [![]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image5.png" | absolute_url }})]({{ "/images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes Allen/media/image5.png" | absolute_url }})
-</p>
 
 Other things to be on the lookout for: non-standard uses of dots, particularly the various combinations of stacking for adjacent dots, as here:
 
