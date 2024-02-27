@@ -1,8 +1,7 @@
 ---
 author: Jonathan Parkes Allen
 excerpt: One of the most potent affordances of manuscript textual production, as opposed to typographic or digital print, is the simple fact that handwriting permits a lot more variation and even downright weirdness in what ends up on the page...
-image: /images/blogs/2024-02-27/Hunting-for-Unusual-Characters-in-ArabicJonathan Parkes
-  Allen/media/image1.png
+image: images/0084_0018_web.jpg
 layout: post
 tags: null
 title: Hunting for Unusual Characters in Arabic Script Manuscripts
