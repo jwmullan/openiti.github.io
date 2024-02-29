@@ -5,4 +5,4 @@ banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_na
 ---
 
 ![](/assets/images/team/romanov.jpg){: width="20%"}{: .align-right} 
-Emmy Noether Junior Research Group Leader, [The Evolution of Islamic Societies (*c. 600-1600 CE*)](https://www.csmc.uni-hamburg.de/research/current-projects/evolution-of-islamic-societies.html), Universität Hamburg
+Emmy Noether Junior Research Group Leader, [The Evolution of Islamic Societies (*c. 600-1600 CE*)](https://eis1600.aai.uni-hamburg.de/), Universität Hamburg
