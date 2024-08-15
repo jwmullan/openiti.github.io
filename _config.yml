@@ -115,6 +115,6 @@ sponsors:
    neh:
      link: "https://www.neh.gov/pages/NSF/media/image1.png"
      image: "/assets/images/main-images/neh.jpg"
-  nsf:
-    link: "https://www.nsf.gov/"
-    image: "/assets/images/pages/NSF/media/image1.png"
+   nsf:
+     link: "https://www.nsf.gov/"
+     image: "/assets/images/pages/NSF/media/image1.png"
