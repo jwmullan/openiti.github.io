@@ -113,5 +113,8 @@ sponsors:
      link: "https://mellon.org/"
      image: "/assets/images/main-images/mellon-logo.jpeg"
    neh:
-     link: "https://www.neh.gov/"
+     link: "https://www.neh.gov/pages/NSF/media/image1.png"
      image: "/assets/images/main-images/neh.jpg"
+  nsf:
+    link: "https://www.nsf.gov/"
+    image: '/assets/images/
