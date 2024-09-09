@@ -42,7 +42,7 @@ The Islamicate Digital Humanities GitHub has syllabi for two university courses 
 
 
 
-eScriptorium is co-developed by a large coalition of international institutions projects. [A full list of contributors can be found at the bottom of this page](https://gitlab.com/scripta/escriptorium) OpenITI has also developed a written guide to eScriptorium, which can be found [here]({{site.url }}/assets/documents/eScriptorium-Tutorial.pdf), as well as video tutorials found on our [YouTube](https://www.youtube.com/channel/UCCe8LVJZgRWm82kFZeHEa2w/videos) page.
+eScriptorium is co-developed by a large coalition of international institutions and projects. [A full list of contributors can be found at the bottom of this page](https://gitlab.com/scripta/escriptorium) OpenITI has also developed a written guide to eScriptorium, which can be found [here]({{site.url }}/assets/documents/eScriptorium-Tutorial.pdf), as well as video tutorials found on our [YouTube](https://www.youtube.com/channel/UCCe8LVJZgRWm82kFZeHEa2w/videos) page.
 
 
 ## OpenITI Corpus
