@@ -15,8 +15,11 @@ title: 'Texts, Tools, and the Future of Islamicate Humanities: OpenITI Conversat
 We know that our colleagues across Islamicate humanities are working on a vast range of topics, incorporating innovative methods, tools, and theoretical approaches, and thinking about the implications of textual and other technologies on their subjects, research methods, and pedagogical practices. We all interact with texts in some form or another, especially when we define 'text' in an expansive manner, recognizing the textually-entangled nature of objects and practices and ideas that do not fall neatly into the usual categories. The omnipresence of digital environments, methods, and tools, including many that are quite novel, adds additional layers of interest and complexity to our uses and perceptions and generation of textuality.
 
 [![]({{ "/images/blogs/2024-09-13/Texts--Tools--and-the-Future-of-IslamicaJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})]({{ "/images/blogs/2024-09-13/Texts--Tools--and-the-Future-of-IslamicaJonathan Parkes Allen/media/image1.jpeg" | absolute_url }})
+
+
 Generative AI, including prompt-generated images like the above, is approaching ubiquity online. Should we as scholars embrace it? Avoid it? Deploy tools and theories to understand its appeal and usages?
 {: .figcaption }
+
 
 We at OpenITI would like to talk with other scholars working in fields within the Islamicate humanities about these sorts of topics, giving a platform for our colleagues to raise ideas, publicize their ongoing work, and just reflect out loud on topics and issues that are pertinent to all of us. Towards this end, we are inviting scholars of whatever affiliation, status, and specialization, to meet with us virtually for recorded conversations on a topic of your choosing, so long as it in some way intersects with questions of texts, of textuality, and/or digital tools, methods, and practices. We're aiming to produce videos out of these conversations of approximately ten to fifteen minutes in length, to be uploaded to our YouTube channel and circulated via this blog and our social media presence
 
