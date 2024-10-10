@@ -111,10 +111,10 @@ sidebar_sponsors: true
 sponsors:
    mellon:
      link: "https://mellon.org/"
-     image: "/assets/images/main-images/mellon-logo.jpeg"
+     image: "/assets/images/main-images/mellon-logo-2.jpg"
    neh:
      link: "https://www.neh.gov/pages/NSF/media/image1.png"
-     image: "/assets/images/main-images/neh.jpg"
+     image: "/assets/images/main-images/neh-logo-2.jpg"
    nsf:
      link: "https://www.nsf.gov/"
      image: "/assets/images/pages/NSF/media/image1.png"
