@@ -19,6 +19,10 @@ The *ACDC* project will accomplish this task by extending the capabilities of th
 The *ACDC* tool's acceleration of the training data production process will mark an important step towards the creation of the generalizable Arabic and Persian HTR models required for the digital transcription of large-scale Persian and Arabic manuscript collections.
 
 
+
+**Funding and Project Duration:** $282,905.00 from January 2021 to June 2023 (see the [National Endowment for the Humanities' website](https://apps.neh.gov/publicquery/AwardDetail.aspx?gn=HAA-277203-21) for more information).
+
+
 ## Primary Project Personnel
 
 
