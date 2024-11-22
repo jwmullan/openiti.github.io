@@ -14,6 +14,8 @@ OpenITI team members from the [University of Maryland, College Park](https://umd
 
 For more information on this project, please see [this press release from the University of Maryland, College Park](https://arhu.umd.edu/news/nsf-grant-funds-research-islamicate-manuscript-transcription-methods) and [our team's recent publication on the efficacy of lacuna reconstruction](https://arxiv.org/abs/2112.08692). 
 
+**Funding and Project Duration:** $597,844.00 from July 2022 to June 2025 (see [subgrant one](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2200333&HistoricalAwards=false) and [subgrant two](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2200334&HistoricalAwards=false) on the National Science Foundation website for more information).
+
 ## Primary Project Personnel
 
 **Jonathan Parkes Allen**
