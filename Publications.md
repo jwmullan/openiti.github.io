@@ -8,7 +8,7 @@ banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_na
 <br>
 <br>
 
-* Allen, Jonathan Parkes, Matthew Thomas Miller, John Mullan, and David Smith. "Digitizing the Islamicate Written Traditions: History, State of the Field, and Best Practices for Open-source Arabic-script OCR." White paper for the Open Islamicate Texts Initiative Arabic-script OCR Catalyst project, Phase I (2022). [https://docs.google.com/document/d/1NJOB3rBBEowzwOzyggi479rv9ydQ2JL7syyuyi_x9Qw/edit?usp=sharing](https://docs.google.com/document/d/1NJOB3rBBEowzwOzyggi479rv9ydQ2JL7syyuyi_x9Qw/edit?usp=sharing) 
+* [Allen, Jonathan Parkes, Matthew Thomas Miller, John Mullan, and David Smith. "Digitizing the Islamicate Written Traditions: History, State of the Field, and Best Practices for Open-source Arabic-script OCR." White paper for the Open Islamicate Texts Initiative Arabic-script OCR Catalyst project, Phase I (2022)]({{site.url }}/assets/documents/aocp1WhitePaper.pdf). 
 
 * Miller, Matthew Thomas, Maxim G. Romanov, and Sarah Bowen Savant. "Digitizing the Textual Heritage of the Premodern Islamicate World: Principles and Plans." *International Journal of Middle East Studies* 50, no. 1 (2018): 103--9. doi:10.1017/S0020743817000964
 
