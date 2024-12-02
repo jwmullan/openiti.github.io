@@ -18,6 +18,8 @@ OpenITI AOCP Phase II will build on the considerable successes of the Phase I pr
 
 **Funding and Project Duration:** $1,749,722.00 from July 2022 to June 2025.
 
+**Workshops:** OpenITI AOCP, Phase II convened one workshop at the University of Maryland, College Park. For more information, see [the program for the workshop here]({{site.url }}/assets/documents/aocpPhase2Workshop1.pdf).
+
 ## Primary Project Personnel
 
 **Anjum Alam**
