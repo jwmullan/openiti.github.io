@@ -3,6 +3,7 @@ title: "Digital Publications"
 layout: page
 banner: /assets/images/main-images/Isfahan_Lotfollah_mosque_ceiling_symmetric_narrow_border.png
 image: /assets/images/pages/Digital Publications/media/image1.png
+excerpt: "OpenITI has begun piloting the production of the first digital publications of Persian and Arabic works, taken straight from their original manuscript form into a digital publication without a print intermediary. We are developing two projects in collaboration with Carl Ernst for our digital publication pipeline."
 ---
 
 
