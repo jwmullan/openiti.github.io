@@ -16,6 +16,10 @@ Phase II of OpenITI AOCP brings together a highly interdisciplinary team of expe
 
 OpenITI AOCP Phase II will build on the considerable successes of the Phase I project in piloting corpus production for Persian and Arabic and advancing OCR character accuracy rates (CARs) on the most common typefaces in Persian and Arabic print history. In Phase II, the OpenITI AOCP team will dramatically expand the size of OpenITI’s Persian and Arabic corpus through large-scale OCR work in Persian and Arabic; extend the linguistic capabilities of OpenITI’s OCR tools into Ottoman Turkish and Urdu; transform its open-source optical character recognition (OCR)/handwritten text recognition (HTR) pipeline by incorporating newly developed unsupervised machine learning tools into its workflow (including into its user-friendly interface, eScriptorium); build individual scholarly and institutional Islamicate manuscript HTR workflows; and convene an experts workshop to critically assess the ethical and technological issues for next-generation digital text dissemination.  
 
+**Funding and Project Duration:** $1,749,722.00 from July 2022 to June 2025.
+
+**Workshops:** OpenITI AOCP, Phase II convened one workshop at the University of Maryland, College Park. For more information, see [the program for the workshop here]({{site.url }}/assets/documents/aocpPhase2Workshop1.pdf).
+
 ## Primary Project Personnel
 
 **Anjum Alam**
